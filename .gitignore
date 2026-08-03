@@ -33,7 +33,7 @@ Desktop.ini
 .DS_Store
 
 # Ignore runtime data logs and SQLite database instances
-Data/vibration_data.db
+Data/calibration_data.db
 Data/*.tdms
 Data/*.tdms_index
 Data/TDMS_Logs/
