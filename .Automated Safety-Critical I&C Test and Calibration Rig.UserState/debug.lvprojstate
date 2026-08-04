@@ -1,5 +1,75 @@
 <Configuration>
   <Target name="My Computer">
     <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="Database.lvlib:DB Message Loop.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="3332"/>
+          <SignalUID value="3968"/>
+          <SignalUID value="4642"/>
+          <SignalUID value="4543"/>
+          <SignalUID value="6076"/>
+          <SignalUID value="2932"/>
+          <SignalUID value="4910"/>
+          <SignalUID value="2928"/>
+          <SignalUID value="3885"/>
+          <SignalUID value="6170"/>
+          <SignalUID value="4250"/>
+          <SignalUID value="3172"/>
+          <SignalUID value="1258"/>
+          <SignalUID value="3443"/>
+          <SignalUID value="5627"/>
+          <SignalUID value="6036"/>
+          <SignalUID value="3554"/>
+          <SignalUID value="1380"/>
+          <SignalUID value="6993"/>
+          <SignalUID value="6996"/>
+          <SignalUID value="5069"/>
+          <SignalUID value="1106"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Main.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="5569"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Settings.lvlib:Settings Dialog.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1115"/>
+          <SignalUID value="1477"/>
+          <SignalUID value="2810"/>
+          <SignalUID value="557"/>
+          <SignalUID value="4426"/>
+          <SignalUID value="4739"/>
+          <SignalUID value="1378"/>
+          <SignalUID value="3227"/>
+          <SignalUID value="72"/>
+          <SignalUID value="1433"/>
+          <SignalUID value="1395"/>
+        </Generic>
+      </Probes>
+    </VI>
   </Target>
 </Configuration>
