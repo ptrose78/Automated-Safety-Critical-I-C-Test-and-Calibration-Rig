@@ -1,6 +1,19 @@
 <Configuration>
   <Target name="My Computer">
     <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="Check Loop Error.vi:760002">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="383"/>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="Database.lvlib:DB Message Loop.vi">
       <Breakpoints>
         <NodeIndexes>
@@ -32,6 +45,7 @@
           <SignalUID value="6996"/>
           <SignalUID value="5069"/>
           <SignalUID value="1106"/>
+          <SignalUID value="4780"/>
         </Generic>
       </Probes>
     </VI>
@@ -57,7 +71,6 @@
       </Breakpoints>
       <Probes>
         <Generic>
-          <SignalUID value="1115"/>
           <SignalUID value="1477"/>
           <SignalUID value="2810"/>
           <SignalUID value="557"/>
