@@ -30,30 +30,41 @@
 		</Item>
 		<Item Name="Support VIs" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
-			<Item Name="Message Queue.lvlib" Type="Library" URL="../support/Message Queue/Message Queue.lvlib"/>
-			<Item Name="User Event - Stop.lvlib" Type="Library" URL="../support/User Event - Stop/User Event - Stop.lvlib"/>
-			<Item Name="Set Enable State on Multiple Controls.vi" Type="VI" URL="../support/Set Enable State on Multiple Controls.vi"/>
-			<Item Name="Check Loop Error.vi" Type="VI" URL="../support/Check Loop Error.vi"/>
-			<Item Name="Create Data Directory.vi" Type="VI" URL="../support/Create Data Directory.vi"/>
-			<Item Name="Error Handler - Event Handling Loop.vi" Type="VI" URL="../support/Error Handler - Event Handling Loop.vi"/>
-			<Item Name="Error Handler - DB Handling Loop.vi" Type="VI" URL="../Database/Error Handler - DB Handling Loop.vi"/>
+			<Item Name="Architecture" Type="Folder">
+				<Item Name="Message Queue" Type="Folder">
+					<Item Name="Message Queue.lvlib" Type="Library" URL="../support/Architecture/Message Queue/Message Queue.lvlib"/>
+				</Item>
+				<Item Name="User Event - Stop" Type="Folder">
+					<Item Name="User Event - Stop.lvlib" Type="Library" URL="../support/Architecture/User Event - Stop/User Event - Stop.lvlib"/>
+				</Item>
+				<Item Name="Check Loop Error.vi" Type="VI" URL="../support/Architecture/Check Loop Error.vi"/>
+				<Item Name="Error Handler - Event Handling Loop.vi" Type="VI" URL="../support/Architecture/Error Handler - Event Handling Loop.vi"/>
+			</Item>
+			<Item Name="File IO" Type="Folder">
+				<Item Name="Create Data Directory.vi" Type="VI" URL="../support/File IO/Create Data Directory.vi"/>
+			</Item>
+			<Item Name="UI Utilities" Type="Folder">
+				<Item Name="Login.vi" Type="VI" URL="../support/UI Utilities/Login.vi"/>
+				<Item Name="Set Enable State on Multiple Controls.vi" Type="VI" URL="../support/UI Utilities/Set Enable State on Multiple Controls.vi"/>
+			</Item>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="Acquired Data.ctl" Type="VI" URL="../controls/Acquired Data.ctl"/>
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
-			<Item Name="Folder Name.ctl" Type="VI" URL="../controls/Folder Name.ctl"/>
 			<Item Name="Telemetry_Data_Type.ctl" Type="VI" URL="../controls/Telemetry_Data_Type.ctl"/>
 			<Item Name="Channels.ctl" Type="VI" URL="../controls/Channels.ctl"/>
 			<Item Name="Error_Payload.ctl" Type="VI" URL="../controls/Error_Payload.ctl"/>
 			<Item Name="Fetch Config Payload.ctl" Type="VI" URL="../controls/Fetch Config Payload.ctl"/>
 			<Item Name="Config Cluster.ctl" Type="VI" URL="../controls/Config Cluster.ctl"/>
+			<Item Name="Folder Name.ctl" Type="VI" URL="../controls/Folder Name.ctl"/>
 			<Item Name="UI State.ctl" Type="VI" URL="../controls/UI State.ctl"/>
 		</Item>
+		<Item Name="Admin.lvlib" Type="Library" URL="../Admin/Admin.lvlib"/>
 		<Item Name="Acquisition.lvlib" Type="Library" URL="../Acquisition/Acquisition.lvlib"/>
+		<Item Name="Database.lvlib" Type="Library" URL="../Database/Database.lvlib"/>
 		<Item Name="Logging.lvlib" Type="Library" URL="../Logging/Logging.lvlib"/>
 		<Item Name="Settings.lvlib" Type="Library" URL="../Settings/Settings.lvlib"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="Database.lvlib" Type="Library" URL="../Database/Database.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">
