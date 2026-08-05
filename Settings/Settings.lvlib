@@ -13,4 +13,6 @@
 	<Item Name="Get Config File Path.vi" Type="VI" URL="../Get Config File Path.vi"/>
 	<Item Name="Load Settings from XML.vi" Type="VI" URL="../Load Settings from XML.vi"/>
 	<Item Name="Save Settings to XML.vi" Type="VI" URL="../Save Settings to XML.vi"/>
+	<Item Name="Form Check.vi" Type="VI" URL="../Form Check.vi"/>
+	<Item Name="Assign Error.vi" Type="VI" URL="../Assign Error.vi"/>
 </Library>
