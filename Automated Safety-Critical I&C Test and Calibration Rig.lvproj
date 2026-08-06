@@ -45,6 +45,7 @@
 			</Item>
 			<Item Name="UI Utilities" Type="Folder">
 				<Item Name="Login.vi" Type="VI" URL="../support/UI Utilities/Login.vi"/>
+				<Item Name="Fetch All Model Numbers.vi" Type="VI" URL="../support/UI Utilities/Fetch All Model Numbers.vi"/>
 				<Item Name="Set Enable State on Multiple Controls.vi" Type="VI" URL="../support/UI Utilities/Set Enable State on Multiple Controls.vi"/>
 			</Item>
 		</Item>
@@ -53,7 +54,6 @@
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 			<Item Name="Telemetry_Data_Type.ctl" Type="VI" URL="../controls/Telemetry_Data_Type.ctl"/>
 			<Item Name="Channels.ctl" Type="VI" URL="../controls/Channels.ctl"/>
-			<Item Name="Error_Payload.ctl" Type="VI" URL="../controls/Error_Payload.ctl"/>
 			<Item Name="Fetch Config Payload.ctl" Type="VI" URL="../controls/Fetch Config Payload.ctl"/>
 			<Item Name="Config Cluster.ctl" Type="VI" URL="../controls/Config Cluster.ctl"/>
 			<Item Name="Folder Name.ctl" Type="VI" URL="../controls/Folder Name.ctl"/>
@@ -65,6 +65,9 @@
 		<Item Name="Logging.lvlib" Type="Library" URL="../Logging/Logging.lvlib"/>
 		<Item Name="Settings.lvlib" Type="Library" URL="../Settings/Settings.lvlib"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="Sensor Payload.ctl" Type="VI" URL="../controls/Sensor Payload.ctl"/>
+		<Item Name="Error Payload.ctl" Type="VI" URL="../controls/Error Payload.ctl"/>
+		<Item Name="Error Cluster.ctl" Type="VI" URL="../controls/Error Cluster.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">

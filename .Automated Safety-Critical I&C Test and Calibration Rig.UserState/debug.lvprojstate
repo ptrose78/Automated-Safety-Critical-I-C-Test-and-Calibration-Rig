@@ -25,6 +25,24 @@
         <Generic>
           <SignalUID value="4910"/>
           <SignalUID value="4780"/>
+          <SignalUID value="3963"/>
+          <SignalUID value="4318"/>
+          <SignalUID value="5872"/>
+          <SignalUID value="6892"/>
+          <SignalUID value="5691"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Login.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1333"/>
         </Generic>
       </Probes>
     </VI>
