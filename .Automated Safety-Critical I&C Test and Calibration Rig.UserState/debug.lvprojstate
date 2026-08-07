@@ -30,6 +30,10 @@
           <SignalUID value="5872"/>
           <SignalUID value="6892"/>
           <SignalUID value="5691"/>
+          <SignalUID value="5536"/>
+          <SignalUID value="6996"/>
+          <SignalUID value="6993"/>
+          <SignalUID value="3968"/>
         </Generic>
       </Probes>
     </VI>
@@ -56,6 +60,20 @@
       <Probes>
         <Generic>
           <SignalUID value="5569"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Settings.lvlib:Settings Dialog.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="4426"/>
+          <SignalUID value="4711"/>
         </Generic>
       </Probes>
     </VI>

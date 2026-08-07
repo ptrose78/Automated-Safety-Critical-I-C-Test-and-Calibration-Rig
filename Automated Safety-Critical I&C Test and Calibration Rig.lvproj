@@ -50,14 +50,28 @@
 			</Item>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
-			<Item Name="Acquired Data.ctl" Type="VI" URL="../controls/Acquired Data.ctl"/>
-			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
-			<Item Name="Telemetry_Data_Type.ctl" Type="VI" URL="../controls/Telemetry_Data_Type.ctl"/>
-			<Item Name="Channels.ctl" Type="VI" URL="../controls/Channels.ctl"/>
-			<Item Name="Fetch Config Payload.ctl" Type="VI" URL="../controls/Fetch Config Payload.ctl"/>
-			<Item Name="Config Cluster.ctl" Type="VI" URL="../controls/Config Cluster.ctl"/>
-			<Item Name="Folder Name.ctl" Type="VI" URL="../controls/Folder Name.ctl"/>
-			<Item Name="UI State.ctl" Type="VI" URL="../controls/UI State.ctl"/>
+			<Item Name="UI" Type="Folder">
+				<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI/UI Data.ctl"/>
+				<Item Name="Config Cluster.ctl" Type="VI" URL="../controls/UI/Config Cluster.ctl"/>
+				<Item Name="Folder Name.ctl" Type="VI" URL="../controls/UI/Folder Name.ctl"/>
+				<Item Name="UI State.ctl" Type="VI" URL="../controls/UI/UI State.ctl"/>
+			</Item>
+			<Item Name="Diagnostics" Type="Folder">
+				<Item Name="Error Payload.ctl" Type="VI" URL="../controls/Diagnostics/Error Payload.ctl"/>
+				<Item Name="Error_Payload.ctl" Type="VI" URL="../controls/Diagnostics/Error_Payload.ctl"/>
+				<Item Name="Error Cluster.ctl" Type="VI" URL="../controls/Diagnostics/Error Cluster.ctl"/>
+			</Item>
+			<Item Name="Messaging Payloads" Type="Folder">
+				<Item Name="Sensor Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/Sensor Payload.ctl"/>
+				<Item Name="Sensor Table Insert.ctl" Type="VI" URL="../controls/Messaging Payloads/Sensor Table Insert.ctl"/>
+				<Item Name="Fetch Config Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/Fetch Config Payload.ctl"/>
+				<Item Name="Model Details Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/Model Details Payload.ctl"/>
+			</Item>
+			<Item Name="Data Acquisition" Type="Folder">
+				<Item Name="Acquired Data.ctl" Type="VI" URL="../controls/Acquired Data.ctl"/>
+				<Item Name="Telemetry_Data_Type.ctl" Type="VI" URL="../controls/Data Acquisition/Telemetry_Data_Type.ctl"/>
+				<Item Name="Channels.ctl" Type="VI" URL="../controls/Data Acquisition/Channels.ctl"/>
+			</Item>
 		</Item>
 		<Item Name="Admin.lvlib" Type="Library" URL="../Admin/Admin.lvlib"/>
 		<Item Name="Acquisition.lvlib" Type="Library" URL="../Acquisition/Acquisition.lvlib"/>
@@ -65,9 +79,8 @@
 		<Item Name="Logging.lvlib" Type="Library" URL="../Logging/Logging.lvlib"/>
 		<Item Name="Settings.lvlib" Type="Library" URL="../Settings/Settings.lvlib"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="Sensor Payload.ctl" Type="VI" URL="../controls/Sensor Payload.ctl"/>
-		<Item Name="Error Payload.ctl" Type="VI" URL="../controls/Error Payload.ctl"/>
-		<Item Name="Error Cluster.ctl" Type="VI" URL="../controls/Error Cluster.ctl"/>
+		<Item Name="Settings Refs.ctl" Type="VI" URL="../controls/UI/Settings Refs.ctl"/>
+		<Item Name="DB Query Request Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/DB Query Request Payload.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">

@@ -6,15 +6,11 @@
 <NumElts>3</NumElts>
 <Cluster>
 <Name>Hardware Configuration</Name>
-<NumElts>5</NumElts>
+<NumElts>4</NumElts>
 <I32>
 <Name>Selected Sensor ID</Name>
 <Val>0</Val>
 </I32>
-<String>
-<Name>Serial Number</Name>
-<Val></Val>
-</String>
 <DBL>
 <Name>Target Sample Rate (Hz)</Name>
 <Val>0.00000000000000</Val>

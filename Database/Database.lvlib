@@ -6,6 +6,8 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="DB Message Loop.vi" Type="VI" URL="../DB Message Loop.vi"/>
 	<Item Name="Error Handler - DB Handling Loop.vi" Type="VI" URL="../Error Handler - DB Handling Loop.vi"/>
+	<Item Name="Fetch DB List.vi" Type="VI" URL="../Fetch DB List.vi"/>
+	<Item Name="Fetch Model Config.vi" Type="VI" URL="../Fetch Model Config.vi"/>
 	<Item Name="Write System Error To DB.vi" Type="VI" URL="../Write System Error To DB.vi"/>
 	<Item Name="Write Telemetry Data To DB.vi" Type="VI" URL="../Write Telemetry Data To DB.vi"/>
 </Library>
