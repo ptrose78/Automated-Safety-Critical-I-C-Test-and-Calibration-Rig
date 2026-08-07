@@ -41,6 +41,7 @@
 				<Item Name="Error Handler - Event Handling Loop.vi" Type="VI" URL="../support/Architecture/Error Handler - Event Handling Loop.vi"/>
 			</Item>
 			<Item Name="File IO" Type="Folder">
+				<Item Name="Load System Config File.vi" Type="VI" URL="../support/File IO/Load System Config File.vi"/>
 				<Item Name="Create Data Directory.vi" Type="VI" URL="../support/File IO/Create Data Directory.vi"/>
 			</Item>
 			<Item Name="UI Utilities" Type="Folder">
@@ -52,7 +53,7 @@
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="UI" Type="Folder">
 				<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI/UI Data.ctl"/>
-				<Item Name="Config Cluster.ctl" Type="VI" URL="../controls/UI/Config Cluster.ctl"/>
+				<Item Name="Settings Cluster.ctl" Type="VI" URL="../controls/UI/Settings Cluster.ctl"/>
 				<Item Name="Folder Name.ctl" Type="VI" URL="../controls/UI/Folder Name.ctl"/>
 				<Item Name="UI State.ctl" Type="VI" URL="../controls/UI/UI State.ctl"/>
 			</Item>
@@ -82,6 +83,9 @@
 		<Item Name="Settings Refs.ctl" Type="VI" URL="../controls/UI/Settings Refs.ctl"/>
 		<Item Name="DB Query Request Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/DB Query Request Payload.ctl"/>
 		<Item Name="Login Refs.ctl" Type="VI" URL="../controls/UI/Login Refs.ctl"/>
+		<Item Name="SystemConfig.ini" Type="Document" URL="../SystemConfig.ini"/>
+		<Item Name="SystemConfig.template.ini" Type="Document" URL="../SystemConfig.template.ini"/>
+		<Item Name="System Config.ctl" Type="VI" URL="../controls/UI/System Config.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">

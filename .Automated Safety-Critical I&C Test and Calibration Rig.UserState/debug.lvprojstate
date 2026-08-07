@@ -63,7 +63,7 @@
         </Generic>
       </Probes>
     </VI>
-    <VI name="Settings.lvlib:Settings Dialog.vi">
+    <VI name="Settings.lvlib:Load Settings from XML.vi">
       <Breakpoints>
         <NodeIndexes>
         </NodeIndexes>
@@ -72,11 +72,7 @@
       </Breakpoints>
       <Probes>
         <Generic>
-          <SignalUID value="4426"/>
-          <SignalUID value="4711"/>
-          <SignalUID value="6257"/>
-          <SignalUID value="1032"/>
-          <SignalUID value="4098"/>
+          <SignalUID value="1437"/>
         </Generic>
       </Probes>
     </VI>
