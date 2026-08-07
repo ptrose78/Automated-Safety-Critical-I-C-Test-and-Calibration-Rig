@@ -81,6 +81,7 @@
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Settings Refs.ctl" Type="VI" URL="../controls/UI/Settings Refs.ctl"/>
 		<Item Name="DB Query Request Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/DB Query Request Payload.ctl"/>
+		<Item Name="Login Refs.ctl" Type="VI" URL="../controls/UI/Login Refs.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">
