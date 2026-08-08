@@ -37,6 +37,7 @@
 				<Item Name="User Event - Stop" Type="Folder">
 					<Item Name="User Event - Stop.lvlib" Type="Library" URL="../support/Architecture/User Event - Stop/User Event - Stop.lvlib"/>
 				</Item>
+				<Item Name="Error Handler - Message Handling Loop.vi" Type="VI" URL="../support/Architecture/Error Handler - Message Handling Loop.vi"/>
 				<Item Name="Check Loop Error.vi" Type="VI" URL="../support/Architecture/Check Loop Error.vi"/>
 				<Item Name="Error Handler - Event Handling Loop.vi" Type="VI" URL="../support/Architecture/Error Handler - Event Handling Loop.vi"/>
 			</Item>
