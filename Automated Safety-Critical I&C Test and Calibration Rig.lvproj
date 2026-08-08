@@ -88,6 +88,7 @@
 		<Item Name="SystemConfig.template.ini" Type="Document" URL="../SystemConfig.template.ini"/>
 		<Item Name="System Config.ctl" Type="VI" URL="../controls/UI/System Config.ctl"/>
 		<Item Name="Acquisition Loop State.ctl" Type="VI" URL="../controls/Data Acquisition/Acquisition Loop State.ctl"/>
+		<Item Name="Processing_Engine.lvlib" Type="Library" URL="../Processing/Processing_Engine.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">

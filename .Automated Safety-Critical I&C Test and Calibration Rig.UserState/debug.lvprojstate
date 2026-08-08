@@ -12,6 +12,7 @@
         <Generic>
           <SignalUID value="2735"/>
           <SignalUID value="2194"/>
+          <SignalUID value="2356"/>
         </Generic>
       </Probes>
     </VI>
