@@ -53,9 +53,13 @@
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="UI" Type="Folder">
+				<Item Name="Settings Refs.ctl" Type="VI" URL="../controls/UI/Settings Refs.ctl"/>
+				<Item Name="System Config.ctl" Type="VI" URL="../controls/UI/System Config.ctl"/>
+				<Item Name="Session Identfiers.ctl" Type="VI" URL="../controls/UI/Session Identfiers.ctl"/>
 				<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI/UI Data.ctl"/>
 				<Item Name="Settings Cluster.ctl" Type="VI" URL="../controls/UI/Settings Cluster.ctl"/>
 				<Item Name="Folder Name.ctl" Type="VI" URL="../controls/UI/Folder Name.ctl"/>
+				<Item Name="Login Refs.ctl" Type="VI" URL="../controls/UI/Login Refs.ctl"/>
 				<Item Name="UI State.ctl" Type="VI" URL="../controls/UI/UI State.ctl"/>
 			</Item>
 			<Item Name="Diagnostics" Type="Folder">
@@ -68,11 +72,20 @@
 				<Item Name="Sensor Table Insert.ctl" Type="VI" URL="../controls/Messaging Payloads/Sensor Table Insert.ctl"/>
 				<Item Name="Fetch Config Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/Fetch Config Payload.ctl"/>
 				<Item Name="Model Details Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/Model Details Payload.ctl"/>
+				<Item Name="Operator Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/Operator Payload.ctl"/>
+				<Item Name="Operator Table Insert.ctl" Type="VI" URL="../controls/Messaging Payloads/Operator Table Insert.ctl"/>
+				<Item Name="TestRuns Table Insert.ctl" Type="VI" URL="../controls/Messaging Payloads/TestRuns Table Insert.ctl"/>
+				<Item Name="DB Query Request Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/DB Query Request Payload.ctl"/>
+				<Item Name="Processed Calibration Point.ctl" Type="VI" URL="../controls/Messaging Payloads/Processed Calibration Point.ctl"/>
 			</Item>
 			<Item Name="Data Acquisition" Type="Folder">
 				<Item Name="Acquired Data.ctl" Type="VI" URL="../controls/Acquired Data.ctl"/>
 				<Item Name="Telemetry_Data_Type.ctl" Type="VI" URL="../controls/Data Acquisition/Telemetry_Data_Type.ctl"/>
 				<Item Name="Channels.ctl" Type="VI" URL="../controls/Data Acquisition/Channels.ctl"/>
+				<Item Name="Acquisition Loop State.ctl" Type="VI" URL="../controls/Data Acquisition/Acquisition Loop State.ctl"/>
+			</Item>
+			<Item Name="Loop Memory" Type="Folder">
+				<Item Name="DB Session Data.ctl" Type="VI" URL="../controls/Loop Memory/DB Session Data.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Admin.lvlib" Type="Library" URL="../Admin/Admin.lvlib"/>
@@ -80,21 +93,10 @@
 		<Item Name="Database.lvlib" Type="Library" URL="../Database/Database.lvlib"/>
 		<Item Name="Logging.lvlib" Type="Library" URL="../Logging/Logging.lvlib"/>
 		<Item Name="Settings.lvlib" Type="Library" URL="../Settings/Settings.lvlib"/>
+		<Item Name="Processing_Engine.lvlib" Type="Library" URL="../Processing/Processing_Engine.lvlib"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="Settings Refs.ctl" Type="VI" URL="../controls/UI/Settings Refs.ctl"/>
-		<Item Name="DB Query Request Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/DB Query Request Payload.ctl"/>
-		<Item Name="Login Refs.ctl" Type="VI" URL="../controls/UI/Login Refs.ctl"/>
 		<Item Name="SystemConfig.ini" Type="Document" URL="../SystemConfig.ini"/>
 		<Item Name="SystemConfig.template.ini" Type="Document" URL="../SystemConfig.template.ini"/>
-		<Item Name="System Config.ctl" Type="VI" URL="../controls/UI/System Config.ctl"/>
-		<Item Name="Acquisition Loop State.ctl" Type="VI" URL="../controls/Data Acquisition/Acquisition Loop State.ctl"/>
-		<Item Name="Processing_Engine.lvlib" Type="Library" URL="../Processing/Processing_Engine.lvlib"/>
-		<Item Name="Processed Calibration Point.ctl" Type="VI" URL="../controls/Messaging Payloads/Processed Calibration Point.ctl"/>
-		<Item Name="DB Session Data.ctl" Type="VI" URL="../controls/Loop Memory/DB Session Data.ctl"/>
-		<Item Name="Operator Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/Operator Payload.ctl"/>
-		<Item Name="Operator Table Insert.ctl" Type="VI" URL="../controls/Messaging Payloads/Operator Table Insert.ctl"/>
-		<Item Name="Session Identfiers.ctl" Type="VI" URL="../controls/UI/Session Identfiers.ctl"/>
-		<Item Name="TestRuns Table Insert.ctl" Type="VI" URL="../controls/Messaging Payloads/TestRuns Table Insert.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">
