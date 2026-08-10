@@ -12,6 +12,6 @@
 	</Item>
 	<Item Name="Error Handler - Processing Message Loop.vi" Type="VI" URL="../Error Handler - Processing Message Loop.vi"/>
 	<Item Name="Flush Data to Log File.vi" Type="VI" URL="../Flush Data to Log File.vi"/>
-	<Item Name="Log Data.vi" Type="VI" URL="../Log Data.vi"/>
+	<Item Name="Process Data.vi" Type="VI" URL="../Process Data.vi"/>
 	<Item Name="Processing Message Loop.vi" Type="VI" URL="../Processing Message Loop.vi"/>
 </Library>

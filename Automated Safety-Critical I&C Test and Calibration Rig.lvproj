@@ -90,6 +90,11 @@
 		<Item Name="Acquisition Loop State.ctl" Type="VI" URL="../controls/Data Acquisition/Acquisition Loop State.ctl"/>
 		<Item Name="Processing_Engine.lvlib" Type="Library" URL="../Processing/Processing_Engine.lvlib"/>
 		<Item Name="Processed Calibration Point.ctl" Type="VI" URL="../controls/Messaging Payloads/Processed Calibration Point.ctl"/>
+		<Item Name="DB Session Data.ctl" Type="VI" URL="../controls/Loop Memory/DB Session Data.ctl"/>
+		<Item Name="Operator Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/Operator Payload.ctl"/>
+		<Item Name="Operator Table Insert.ctl" Type="VI" URL="../controls/Messaging Payloads/Operator Table Insert.ctl"/>
+		<Item Name="Session Identfiers.ctl" Type="VI" URL="../controls/UI/Session Identfiers.ctl"/>
+		<Item Name="TestRuns Table Insert.ctl" Type="VI" URL="../controls/Messaging Payloads/TestRuns Table Insert.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">

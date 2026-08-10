@@ -11,8 +11,6 @@
       <Probes>
         <Generic>
           <SignalUID value="2735"/>
-          <SignalUID value="2194"/>
-          <SignalUID value="2356"/>
         </Generic>
       </Probes>
     </VI>
@@ -64,6 +62,17 @@
           <SignalUID value="5691"/>
           <SignalUID value="5605"/>
           <SignalUID value="5704"/>
+          <SignalUID value="9960"/>
+          <SignalUID value="8704"/>
+          <SignalUID value="8641"/>
+          <SignalUID value="9166"/>
+          <SignalUID value="9224"/>
+          <SignalUID value="9160"/>
+          <SignalUID value="9813"/>
+          <SignalUID value="9151"/>
+          <SignalUID value="9157"/>
+          <SignalUID value="9715"/>
+          <SignalUID value="3222"/>
         </Generic>
       </Probes>
     </VI>
@@ -78,6 +87,22 @@
         <Generic>
           <SignalUID value="364"/>
           <SignalUID value="277"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Database.lvlib:Fetch SensorID.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1140"/>
+          <SignalUID value="1400"/>
+          <SignalUID value="354"/>
+          <SignalUID value="366"/>
         </Generic>
       </Probes>
     </VI>
