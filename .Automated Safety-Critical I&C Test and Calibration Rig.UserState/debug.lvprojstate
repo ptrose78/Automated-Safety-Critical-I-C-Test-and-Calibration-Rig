@@ -119,6 +119,10 @@
       <Probes>
         <Generic>
           <SignalUID value="1333"/>
+          <SignalUID value="5782"/>
+          <SignalUID value="2473"/>
+          <SignalUID value="3699"/>
+          <SignalUID value="3736"/>
         </Generic>
       </Probes>
     </VI>
@@ -133,6 +137,32 @@
         <Generic>
           <SignalUID value="5569"/>
           <SignalUID value="1474"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Set Visible State on Multiple Controls.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="414"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Set Visible State on Pages.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="656"/>
         </Generic>
       </Probes>
     </VI>

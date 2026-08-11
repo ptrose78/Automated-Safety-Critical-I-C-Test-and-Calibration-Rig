@@ -97,6 +97,9 @@
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="SystemConfig.ini" Type="Document" URL="../SystemConfig.ini"/>
 		<Item Name="SystemConfig.template.ini" Type="Document" URL="../SystemConfig.template.ini"/>
+		<Item Name="Set Visible State on Multiple Controls.vi" Type="VI" URL="../support/UI Utilities/Set Visible State on Multiple Controls.vi"/>
+		<Item Name="Set Admin Visible .vi" Type="VI" URL="../support/UI Utilities/Set Admin Visible .vi"/>
+		<Item Name="Set Visible State on Pages.vi" Type="VI" URL="../support/UI Utilities/Set Visible State on Pages.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">
