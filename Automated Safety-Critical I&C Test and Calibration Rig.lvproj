@@ -100,6 +100,9 @@
 		<Item Name="Set Visible State on Multiple Controls.vi" Type="VI" URL="../support/UI Utilities/Set Visible State on Multiple Controls.vi"/>
 		<Item Name="Set Admin Visible .vi" Type="VI" URL="../support/UI Utilities/Set Admin Visible .vi"/>
 		<Item Name="Set Visible State on Pages.vi" Type="VI" URL="../support/UI Utilities/Set Visible State on Pages.vi"/>
+		<Item Name="Calibration Point Table Insert.ctl" Type="VI" URL="../controls/Messaging Payloads/Calibration Point Table Insert.ctl"/>
+		<Item Name="Config Settings.ctl" Type="VI" URL="../controls/UI/Config Settings.ctl"/>
+		<Item Name="Acq Settings.ctl" Type="VI" URL="../controls/UI/Acq Settings.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">

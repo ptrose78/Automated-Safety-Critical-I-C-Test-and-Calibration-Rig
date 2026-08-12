@@ -1,6 +1,20 @@
 <Configuration>
   <Target name="My Computer">
     <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="Acquisition.lvlib:Acquire.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1288"/>
+          <SignalUID value="1609"/>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="Acquisition.lvlib:Acquisition Message Loop.vi">
       <Breakpoints>
         <NodeIndexes>
@@ -11,6 +25,9 @@
       <Probes>
         <Generic>
           <SignalUID value="2735"/>
+          <SignalUID value="2648"/>
+          <SignalUID value="2975"/>
+          <SignalUID value="3613"/>
         </Generic>
       </Probes>
     </VI>
@@ -63,8 +80,6 @@
           <SignalUID value="5605"/>
           <SignalUID value="5704"/>
           <SignalUID value="9960"/>
-          <SignalUID value="8704"/>
-          <SignalUID value="8641"/>
           <SignalUID value="9166"/>
           <SignalUID value="9224"/>
           <SignalUID value="9160"/>
@@ -76,6 +91,9 @@
           <SignalUID value="672"/>
           <SignalUID value="9895"/>
           <SignalUID value="7726"/>
+          <SignalUID value="7124"/>
+          <SignalUID value="11689"/>
+          <SignalUID value="9149"/>
         </Generic>
       </Probes>
     </VI>
@@ -109,6 +127,19 @@
         </Generic>
       </Probes>
     </VI>
+    <VI name="Load System Config File.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1255"/>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="Login.vi">
       <Breakpoints>
         <NodeIndexes>
@@ -137,6 +168,20 @@
         <Generic>
           <SignalUID value="5569"/>
           <SignalUID value="1474"/>
+          <SignalUID value="2377"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Processing_Engine.lvlib:Process Data.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1607"/>
         </Generic>
       </Probes>
     </VI>
