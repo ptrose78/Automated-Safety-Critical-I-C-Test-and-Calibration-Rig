@@ -103,6 +103,8 @@
 		<Item Name="Calibration Point Table Insert.ctl" Type="VI" URL="../controls/Messaging Payloads/Calibration Point Table Insert.ctl"/>
 		<Item Name="Config Settings.ctl" Type="VI" URL="../controls/UI/Config Settings.ctl"/>
 		<Item Name="Acq Settings.ctl" Type="VI" URL="../controls/UI/Acq Settings.ctl"/>
+		<Item Name="Units Enum.ctl" Type="VI" URL="../controls/UI/Units Enum.ctl"/>
+		<Item Name="Output Signal Enum.ctl" Type="VI" URL="../controls/UI/Output Signal Enum.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">
