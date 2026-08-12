@@ -68,8 +68,8 @@
 				<Item Name="Error Cluster.ctl" Type="VI" URL="../controls/Diagnostics/Error Cluster.ctl"/>
 			</Item>
 			<Item Name="Messaging Payloads" Type="Folder">
-				<Item Name="Sensor Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/Sensor Payload.ctl"/>
-				<Item Name="Sensor Table Insert.ctl" Type="VI" URL="../controls/Messaging Payloads/Sensor Table Insert.ctl"/>
+				<Item Name="Sensor InsertRequest.ctl" Type="VI" URL="../controls/Messaging Payloads/Sensor InsertRequest.ctl"/>
+				<Item Name="Sensor CoreData.ctl" Type="VI" URL="../controls/Messaging Payloads/Sensor CoreData.ctl"/>
 				<Item Name="Fetch Config Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/Fetch Config Payload.ctl"/>
 				<Item Name="Model Details Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/Model Details Payload.ctl"/>
 				<Item Name="Operator Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/Operator Payload.ctl"/>
@@ -105,6 +105,8 @@
 		<Item Name="Acq Settings.ctl" Type="VI" URL="../controls/UI/Acq Settings.ctl"/>
 		<Item Name="Units Enum.ctl" Type="VI" URL="../controls/UI/Units Enum.ctl"/>
 		<Item Name="Output Signal Enum.ctl" Type="VI" URL="../controls/UI/Output Signal Enum.ctl"/>
+		<Item Name="Fetch Sensor Data.vi" Type="VI" URL="../Database/Fetch Sensor Data.vi"/>
+		<Item Name="Sensor FetchResponse.ctl" Type="VI" URL="../controls/Messaging Payloads/Sensor FetchResponse.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">

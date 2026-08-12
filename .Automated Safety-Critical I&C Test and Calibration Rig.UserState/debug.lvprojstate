@@ -84,18 +84,12 @@
           <SignalUID value="9960"/>
           <SignalUID value="9166"/>
           <SignalUID value="9224"/>
-          <SignalUID value="9160"/>
           <SignalUID value="9813"/>
-          <SignalUID value="9151"/>
           <SignalUID value="9157"/>
-          <SignalUID value="9715"/>
-          <SignalUID value="3222"/>
-          <SignalUID value="672"/>
           <SignalUID value="9895"/>
-          <SignalUID value="7726"/>
-          <SignalUID value="7124"/>
-          <SignalUID value="11689"/>
-          <SignalUID value="9149"/>
+          <SignalUID value="1616"/>
+          <SignalUID value="7221"/>
+          <SignalUID value="5992"/>
         </Generic>
       </Probes>
     </VI>
@@ -126,6 +120,20 @@
           <SignalUID value="1400"/>
           <SignalUID value="354"/>
           <SignalUID value="366"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Fetch Sensor Data.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="3878"/>
+          <SignalUID value="529"/>
         </Generic>
       </Probes>
     </VI>
@@ -169,8 +177,13 @@
       <Probes>
         <Generic>
           <SignalUID value="5569"/>
-          <SignalUID value="1474"/>
-          <SignalUID value="2377"/>
+          <SignalUID value="11041"/>
+          <SignalUID value="5249"/>
+          <SignalUID value="7495"/>
+          <SignalUID value="8694"/>
+          <SignalUID value="6409"/>
+          <SignalUID value="1563"/>
+          <SignalUID value="4066"/>
         </Generic>
       </Probes>
     </VI>
@@ -237,6 +250,10 @@
         <Generic>
           <SignalUID value="6257"/>
           <SignalUID value="3311"/>
+          <SignalUID value="3283"/>
+          <SignalUID value="4704"/>
+          <SignalUID value="3227"/>
+          <SignalUID value="4739"/>
         </Generic>
       </Probes>
     </VI>
