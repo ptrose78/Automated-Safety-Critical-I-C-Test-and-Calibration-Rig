@@ -48,41 +48,50 @@
 			<Item Name="UI Utilities" Type="Folder">
 				<Item Name="Login.vi" Type="VI" URL="../support/UI Utilities/Login.vi"/>
 				<Item Name="Fetch All Model Numbers.vi" Type="VI" URL="../support/UI Utilities/Fetch All Model Numbers.vi"/>
+				<Item Name="Set Visible State on Multiple Controls.vi" Type="VI" URL="../support/UI Utilities/Set Visible State on Multiple Controls.vi"/>
+				<Item Name="Set Admin Visible .vi" Type="VI" URL="../support/UI Utilities/Set Admin Visible .vi"/>
+				<Item Name="Set Visible State on Pages.vi" Type="VI" URL="../support/UI Utilities/Set Visible State on Pages.vi"/>
 				<Item Name="Set Enable State on Multiple Controls.vi" Type="VI" URL="../support/UI Utilities/Set Enable State on Multiple Controls.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="UI" Type="Folder">
-				<Item Name="Settings Refs.ctl" Type="VI" URL="../controls/UI/Settings Refs.ctl"/>
-				<Item Name="System Config.ctl" Type="VI" URL="../controls/UI/System Config.ctl"/>
-				<Item Name="Session Identfiers.ctl" Type="VI" URL="../controls/UI/Session Identfiers.ctl"/>
-				<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI/UI Data.ctl"/>
-				<Item Name="Settings Cluster.ctl" Type="VI" URL="../controls/UI/Settings Cluster.ctl"/>
+				<Item Name="Acq Settings.ctl" Type="VI" URL="../controls/UI/Acq Settings.ctl"/>
+				<Item Name="Config Settings.ctl" Type="VI" URL="../controls/UI/Config Settings.ctl"/>
 				<Item Name="Folder Name.ctl" Type="VI" URL="../controls/UI/Folder Name.ctl"/>
 				<Item Name="Login Refs.ctl" Type="VI" URL="../controls/UI/Login Refs.ctl"/>
+				<Item Name="Output Signal Enum.ctl" Type="VI" URL="../controls/UI/Output Signal Enum.ctl"/>
+				<Item Name="Session Identfiers.ctl" Type="VI" URL="../controls/UI/Session Identfiers.ctl"/>
+				<Item Name="Settings Cluster.ctl" Type="VI" URL="../controls/UI/Settings Cluster.ctl"/>
+				<Item Name="Settings Refs.ctl" Type="VI" URL="../controls/UI/Settings Refs.ctl"/>
+				<Item Name="System Config.ctl" Type="VI" URL="../controls/UI/System Config.ctl"/>
+				<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI/UI Data.ctl"/>
 				<Item Name="UI State.ctl" Type="VI" URL="../controls/UI/UI State.ctl"/>
+				<Item Name="Units Enum.ctl" Type="VI" URL="../controls/UI/Units Enum.ctl"/>
 			</Item>
 			<Item Name="Diagnostics" Type="Folder">
+				<Item Name="Error Cluster.ctl" Type="VI" URL="../controls/Diagnostics/Error Cluster.ctl"/>
 				<Item Name="Error Payload.ctl" Type="VI" URL="../controls/Diagnostics/Error Payload.ctl"/>
 				<Item Name="Error_Payload.ctl" Type="VI" URL="../controls/Diagnostics/Error_Payload.ctl"/>
-				<Item Name="Error Cluster.ctl" Type="VI" URL="../controls/Diagnostics/Error Cluster.ctl"/>
 			</Item>
 			<Item Name="Messaging Payloads" Type="Folder">
-				<Item Name="Sensor InsertRequest.ctl" Type="VI" URL="../controls/Messaging Payloads/Sensor InsertRequest.ctl"/>
-				<Item Name="Sensor CoreData.ctl" Type="VI" URL="../controls/Messaging Payloads/Sensor CoreData.ctl"/>
+				<Item Name="Calibration Point Table Insert.ctl" Type="VI" URL="../controls/Messaging Payloads/Calibration Point Table Insert.ctl"/>
+				<Item Name="DB Query Request Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/DB Query Request Payload.ctl"/>
 				<Item Name="Fetch Config Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/Fetch Config Payload.ctl"/>
 				<Item Name="Model Details Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/Model Details Payload.ctl"/>
 				<Item Name="Operator Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/Operator Payload.ctl"/>
 				<Item Name="Operator Table Insert.ctl" Type="VI" URL="../controls/Messaging Payloads/Operator Table Insert.ctl"/>
+				<Item Name="Processed Calibration Points.ctl" Type="VI" URL="../controls/Messaging Payloads/Processed Calibration Points.ctl"/>
+				<Item Name="Sensor CoreData.ctl" Type="VI" URL="../controls/Messaging Payloads/Sensor CoreData.ctl"/>
+				<Item Name="Sensor FetchResponse.ctl" Type="VI" URL="../controls/Messaging Payloads/Sensor FetchResponse.ctl"/>
+				<Item Name="Sensor InsertRequest.ctl" Type="VI" URL="../controls/Messaging Payloads/Sensor InsertRequest.ctl"/>
 				<Item Name="TestRuns Table Insert.ctl" Type="VI" URL="../controls/Messaging Payloads/TestRuns Table Insert.ctl"/>
-				<Item Name="DB Query Request Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/DB Query Request Payload.ctl"/>
-				<Item Name="Processed Calibration Point.ctl" Type="VI" URL="../controls/Messaging Payloads/Processed Calibration Point.ctl"/>
 			</Item>
 			<Item Name="Data Acquisition" Type="Folder">
-				<Item Name="Acquired Data.ctl" Type="VI" URL="../controls/Acquired Data.ctl"/>
-				<Item Name="Telemetry_Data_Type.ctl" Type="VI" URL="../controls/Data Acquisition/Telemetry_Data_Type.ctl"/>
-				<Item Name="Channels.ctl" Type="VI" URL="../controls/Data Acquisition/Channels.ctl"/>
+				<Item Name="Acquired Data.ctl" Type="VI" URL="../controls/Data Acquisition/Acquired Data.ctl"/>
 				<Item Name="Acquisition Loop State.ctl" Type="VI" URL="../controls/Data Acquisition/Acquisition Loop State.ctl"/>
+				<Item Name="Channels.ctl" Type="VI" URL="../controls/Data Acquisition/Channels.ctl"/>
+				<Item Name="Telemetry_Data_Type.ctl" Type="VI" URL="../controls/Data Acquisition/Telemetry_Data_Type.ctl"/>
 			</Item>
 			<Item Name="Loop Memory" Type="Folder">
 				<Item Name="DB Session Data.ctl" Type="VI" URL="../controls/Loop Memory/DB Session Data.ctl"/>
@@ -97,16 +106,8 @@
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="SystemConfig.ini" Type="Document" URL="../SystemConfig.ini"/>
 		<Item Name="SystemConfig.template.ini" Type="Document" URL="../SystemConfig.template.ini"/>
-		<Item Name="Set Visible State on Multiple Controls.vi" Type="VI" URL="../support/UI Utilities/Set Visible State on Multiple Controls.vi"/>
-		<Item Name="Set Admin Visible .vi" Type="VI" URL="../support/UI Utilities/Set Admin Visible .vi"/>
-		<Item Name="Set Visible State on Pages.vi" Type="VI" URL="../support/UI Utilities/Set Visible State on Pages.vi"/>
-		<Item Name="Calibration Point Table Insert.ctl" Type="VI" URL="../controls/Messaging Payloads/Calibration Point Table Insert.ctl"/>
-		<Item Name="Config Settings.ctl" Type="VI" URL="../controls/UI/Config Settings.ctl"/>
-		<Item Name="Acq Settings.ctl" Type="VI" URL="../controls/UI/Acq Settings.ctl"/>
-		<Item Name="Units Enum.ctl" Type="VI" URL="../controls/UI/Units Enum.ctl"/>
-		<Item Name="Output Signal Enum.ctl" Type="VI" URL="../controls/UI/Output Signal Enum.ctl"/>
-		<Item Name="Fetch Sensor Data.vi" Type="VI" URL="../Database/Fetch Sensor Data.vi"/>
-		<Item Name="Sensor FetchResponse.ctl" Type="VI" URL="../controls/Messaging Payloads/Sensor FetchResponse.ctl"/>
+		<Item Name="Test Parameters.ctl" Type="VI" URL="../Processing/Test Parameters.ctl"/>
+		<Item Name="Processed Calibration Point.ctl" Type="VI" URL="../controls/Messaging Payloads/Processed Calibration Point.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">

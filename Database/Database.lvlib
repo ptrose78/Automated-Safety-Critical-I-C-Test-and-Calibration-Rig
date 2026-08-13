@@ -12,6 +12,7 @@
 	<Item Name="Fetch DB List.vi" Type="VI" URL="../Fetch DB List.vi"/>
 	<Item Name="Fetch Model Config.vi" Type="VI" URL="../Fetch Model Config.vi"/>
 	<Item Name="Fetch OperatorID.vi" Type="VI" URL="../Fetch OperatorID.vi"/>
+	<Item Name="Fetch Sensor Data.vi" Type="VI" URL="../Fetch Sensor Data.vi"/>
 	<Item Name="Fetch Sensor Profile.vi" Type="VI" URL="../Fetch Sensor Profile.vi"/>
 	<Item Name="Fetch SensorID.vi" Type="VI" URL="../Fetch SensorID.vi"/>
 	<Item Name="Write System Error To DB.vi" Type="VI" URL="../Write System Error To DB.vi"/>
