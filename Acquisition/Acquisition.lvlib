@@ -13,6 +13,7 @@
 		<Item Name="Hardware Configuration.ctl" Type="VI" URL="../Hardware Configuration.ctl"/>
 		<Item Name="Signal Type.ctl" Type="VI" URL="../Signal Type.ctl"/>
 	</Item>
+	<Item Name="Hardware Cluster Configuration.ctl" Type="VI" URL="../Hardware Cluster Configuration.ctl"/>
 	<Item Name="Acquisition Message Loop.vi" Type="VI" URL="../Acquisition Message Loop.vi"/>
 	<Item Name="Acquire.vi" Type="VI" URL="../Acquire.vi"/>
 	<Item Name="Configure Hardware.vi" Type="VI" URL="../Configure Hardware.vi"/>

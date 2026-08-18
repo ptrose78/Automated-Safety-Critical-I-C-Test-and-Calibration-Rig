@@ -41,12 +41,10 @@
         <Generic>
           <SignalUID value="1935"/>
           <SignalUID value="1947"/>
-          <SignalUID value="965"/>
           <SignalUID value="859"/>
           <SignalUID value="875"/>
           <SignalUID value="910"/>
           <SignalUID value="557"/>
-          <SignalUID value="574"/>
         </Generic>
       </Probes>
     </VI>
@@ -108,7 +106,6 @@
       </Breakpoints>
       <Probes>
         <Generic>
-          <SignalUID value="3878"/>
           <SignalUID value="529"/>
         </Generic>
       </Probes>
@@ -287,6 +284,17 @@
           <SignalUID value="4704"/>
           <SignalUID value="3227"/>
           <SignalUID value="4739"/>
+          <SignalUID value="3857"/>
+          <SignalUID value="2434"/>
+          <SignalUID value="7257"/>
+          <SignalUID value="3468"/>
+          <SignalUID value="3222"/>
+          <SignalUID value="3557"/>
+          <SignalUID value="3269"/>
+          <SignalUID value="6848"/>
+          <SignalUID value="5431"/>
+          <SignalUID value="4110"/>
+          <SignalUID value="3488"/>
         </Generic>
       </Probes>
     </VI>

@@ -9,11 +9,13 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="support" Type="Folder"/>
-	<Item Name="Fetch All Operators.vi" Type="VI" URL="../../support/UI Utilities/Fetch All Operators.vi"/>
+	<Item Name="Fetch All Operators.vi" Type="VI" URL="../Fetch All Operators.vi"/>
+	<Item Name="Fetch Sensor Identifiers .vi" Type="VI" URL="../../support/UI Utilities/Fetch Sensor Identifiers .vi"/>
 	<Item Name="Settings Dialog.vi" Type="VI" URL="../Settings Dialog.vi"/>
 	<Item Name="Get Config File Path.vi" Type="VI" URL="../Get Config File Path.vi"/>
 	<Item Name="Load Settings from XML.vi" Type="VI" URL="../Load Settings from XML.vi"/>
 	<Item Name="Save Settings to XML.vi" Type="VI" URL="../Save Settings to XML.vi"/>
 	<Item Name="Form Check.vi" Type="VI" URL="../Form Check.vi"/>
 	<Item Name="Assign Error.vi" Type="VI" URL="../Assign Error.vi"/>
+	<Item Name="Fetch Config.vi" Type="VI" URL="../Fetch Config.vi"/>
 </Library>

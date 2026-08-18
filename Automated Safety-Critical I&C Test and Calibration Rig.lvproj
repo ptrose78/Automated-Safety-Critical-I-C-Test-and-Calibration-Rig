@@ -47,7 +47,6 @@
 			</Item>
 			<Item Name="UI Utilities" Type="Folder">
 				<Item Name="Login.vi" Type="VI" URL="../support/UI Utilities/Login.vi"/>
-				<Item Name="Fetch All Model Numbers.vi" Type="VI" URL="../support/UI Utilities/Fetch All Model Numbers.vi"/>
 				<Item Name="Set Visible State on Multiple Controls.vi" Type="VI" URL="../support/UI Utilities/Set Visible State on Multiple Controls.vi"/>
 				<Item Name="Set Admin Visible .vi" Type="VI" URL="../support/UI Utilities/Set Admin Visible .vi"/>
 				<Item Name="Set Visible State on Pages.vi" Type="VI" URL="../support/UI Utilities/Set Visible State on Pages.vi"/>
@@ -68,6 +67,8 @@
 				<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI/UI Data.ctl"/>
 				<Item Name="UI State.ctl" Type="VI" URL="../controls/UI/UI State.ctl"/>
 				<Item Name="Units Enum.ctl" Type="VI" URL="../controls/UI/Units Enum.ctl"/>
+				<Item Name="UUT Channel Config.ctl" Type="VI" URL="../controls/UI/UUT Channel Config.ctl"/>
+				<Item Name="UUT Channels Config.ctl" Type="VI" URL="../controls/UI/UUT Channels Config.ctl"/>
 			</Item>
 			<Item Name="Diagnostics" Type="Folder">
 				<Item Name="Error Cluster.ctl" Type="VI" URL="../controls/Diagnostics/Error Cluster.ctl"/>
@@ -81,6 +82,7 @@
 				<Item Name="Model Details Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/Model Details Payload.ctl"/>
 				<Item Name="Operator Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/Operator Payload.ctl"/>
 				<Item Name="Operator Table Insert.ctl" Type="VI" URL="../controls/Messaging Payloads/Operator Table Insert.ctl"/>
+				<Item Name="Processed Calibration Point.ctl" Type="VI" URL="../controls/Messaging Payloads/Processed Calibration Point.ctl"/>
 				<Item Name="Processed Calibration Points.ctl" Type="VI" URL="../controls/Messaging Payloads/Processed Calibration Points.ctl"/>
 				<Item Name="Sensor CoreData.ctl" Type="VI" URL="../controls/Messaging Payloads/Sensor CoreData.ctl"/>
 				<Item Name="Sensor FetchResponse.ctl" Type="VI" URL="../controls/Messaging Payloads/Sensor FetchResponse.ctl"/>
@@ -106,8 +108,7 @@
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="SystemConfig.ini" Type="Document" URL="../SystemConfig.ini"/>
 		<Item Name="SystemConfig.template.ini" Type="Document" URL="../SystemConfig.template.ini"/>
-		<Item Name="Test Parameters.ctl" Type="VI" URL="../Processing/Test Parameters.ctl"/>
-		<Item Name="Processed Calibration Point.ctl" Type="VI" URL="../controls/Messaging Payloads/Processed Calibration Point.ctl"/>
+		<Item Name="Sensor CoreData Cluster.ctl" Type="VI" URL="../controls/Messaging Payloads/Sensor CoreData Cluster.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">

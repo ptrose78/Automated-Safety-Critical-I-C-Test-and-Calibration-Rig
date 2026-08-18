@@ -7,6 +7,7 @@
 
 </Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="Create Table.vi" Type="VI" URL="../Create Table.vi"/>
 	<Item Name="DB Message Loop.vi" Type="VI" URL="../DB Message Loop.vi"/>
 	<Item Name="Error Handler - DB Handling Loop.vi" Type="VI" URL="../Error Handler - DB Handling Loop.vi"/>
 	<Item Name="Fetch DB List.vi" Type="VI" URL="../Fetch DB List.vi"/>
