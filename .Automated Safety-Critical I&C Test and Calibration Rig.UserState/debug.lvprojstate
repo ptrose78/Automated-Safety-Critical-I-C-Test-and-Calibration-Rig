@@ -80,20 +80,9 @@
           <SignalUID value="9813"/>
           <SignalUID value="9157"/>
           <SignalUID value="9895"/>
-        </Generic>
-      </Probes>
-    </VI>
-    <VI name="Database.lvlib:Fetch DB List.vi">
-      <Breakpoints>
-        <NodeIndexes>
-        </NodeIndexes>
-        <SignalIndexes>
-        </SignalIndexes>
-      </Breakpoints>
-      <Probes>
-        <Generic>
-          <SignalUID value="364"/>
-          <SignalUID value="277"/>
+          <SignalUID value="9715"/>
+          <SignalUID value="1390"/>
+          <SignalUID value="5704"/>
         </Generic>
       </Probes>
     </VI>
@@ -290,11 +279,11 @@
           <SignalUID value="3468"/>
           <SignalUID value="3222"/>
           <SignalUID value="3557"/>
-          <SignalUID value="3269"/>
-          <SignalUID value="6848"/>
-          <SignalUID value="5431"/>
           <SignalUID value="4110"/>
           <SignalUID value="3488"/>
+          <SignalUID value="6848"/>
+          <SignalUID value="5431"/>
+          <SignalUID value="6236"/>
         </Generic>
       </Probes>
     </VI>

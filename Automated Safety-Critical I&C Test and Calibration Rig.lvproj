@@ -79,8 +79,8 @@
 				<Item Name="Calibration Point Table Insert.ctl" Type="VI" URL="../controls/Messaging Payloads/Calibration Point Table Insert.ctl"/>
 				<Item Name="DB Query Request Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/DB Query Request Payload.ctl"/>
 				<Item Name="Fetch Config Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/Fetch Config Payload.ctl"/>
-				<Item Name="Model Details Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/Model Details Payload.ctl"/>
-				<Item Name="Operator Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/Operator Payload.ctl"/>
+				<Item Name="MSG FetchConfiguration Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/MSG FetchConfiguration Payload.ctl"/>
+				<Item Name="Operator InsertRequest.ctl" Type="VI" URL="../controls/Messaging Payloads/Operator InsertRequest.ctl"/>
 				<Item Name="Operator Table Insert.ctl" Type="VI" URL="../controls/Messaging Payloads/Operator Table Insert.ctl"/>
 				<Item Name="Processed Calibration Point.ctl" Type="VI" URL="../controls/Messaging Payloads/Processed Calibration Point.ctl"/>
 				<Item Name="Processed Calibration Points.ctl" Type="VI" URL="../controls/Messaging Payloads/Processed Calibration Points.ctl"/>
@@ -88,6 +88,7 @@
 				<Item Name="Sensor FetchResponse.ctl" Type="VI" URL="../controls/Messaging Payloads/Sensor FetchResponse.ctl"/>
 				<Item Name="Sensor InsertRequest.ctl" Type="VI" URL="../controls/Messaging Payloads/Sensor InsertRequest.ctl"/>
 				<Item Name="TestRuns Table Insert.ctl" Type="VI" URL="../controls/Messaging Payloads/TestRuns Table Insert.ctl"/>
+				<Item Name="Start Test Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/Start Test Payload.ctl"/>
 			</Item>
 			<Item Name="Data Acquisition" Type="Folder">
 				<Item Name="Acquired Data.ctl" Type="VI" URL="../controls/Data Acquisition/Acquired Data.ctl"/>
@@ -98,6 +99,7 @@
 			<Item Name="Loop Memory" Type="Folder">
 				<Item Name="DB Session Data.ctl" Type="VI" URL="../controls/Loop Memory/DB Session Data.ctl"/>
 			</Item>
+			<Item Name="UI List Type.ctl" Type="VI" URL="../controls/UI/UI List Type.ctl"/>
 		</Item>
 		<Item Name="Admin.lvlib" Type="Library" URL="../Admin/Admin.lvlib"/>
 		<Item Name="Acquisition.lvlib" Type="Library" URL="../Acquisition/Acquisition.lvlib"/>
@@ -109,6 +111,12 @@
 		<Item Name="SystemConfig.ini" Type="Document" URL="../SystemConfig.ini"/>
 		<Item Name="SystemConfig.template.ini" Type="Document" URL="../SystemConfig.template.ini"/>
 		<Item Name="Sensor CoreData Cluster.ctl" Type="VI" URL="../controls/Messaging Payloads/Sensor CoreData Cluster.ctl"/>
+		<Item Name="Channel InsertRequest.ctl" Type="VI" URL="../controls/Messaging Payloads/Channel InsertRequest.ctl"/>
+		<Item Name="Channel CoreData Cluster.ctl" Type="VI" URL="../controls/Messaging Payloads/Channel CoreData Cluster.ctl"/>
+		<Item Name="Active Channels Config.ctl" Type="VI" URL="../controls/Messaging Payloads/Active Channels Config.ctl"/>
+		<Item Name="Fetch SensorID Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/Fetch SensorID Payload.ctl"/>
+		<Item Name="MSG FetchSensorID Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/MSG FetchSensorID Payload.ctl"/>
+		<Item Name="DB TestRunChannel Record.ctl" Type="VI" URL="../controls/Messaging Payloads/DB TestRunChannel Record.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">
