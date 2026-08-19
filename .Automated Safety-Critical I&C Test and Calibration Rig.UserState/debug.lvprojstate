@@ -61,6 +61,20 @@
         </Generic>
       </Probes>
     </VI>
+    <VI name="Database.lvlib:DB Fetch UI List.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="277"/>
+          <SignalUID value="1421"/>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="Database.lvlib:DB Message Loop.vi">
       <Breakpoints>
         <NodeIndexes>
@@ -83,6 +97,12 @@
           <SignalUID value="9715"/>
           <SignalUID value="1390"/>
           <SignalUID value="5704"/>
+          <SignalUID value="13424"/>
+          <SignalUID value="13221"/>
+          <SignalUID value="14128"/>
+          <SignalUID value="10947"/>
+          <SignalUID value="10953"/>
+          <SignalUID value="10963"/>
         </Generic>
       </Probes>
     </VI>
@@ -245,6 +265,23 @@
         </Generic>
       </Probes>
     </VI>
+    <VI name="Settings.lvlib:Fetch SensorID.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="566"/>
+          <SignalUID value="480"/>
+          <SignalUID value="483"/>
+          <SignalUID value="471"/>
+          <SignalUID value="677"/>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="Settings.lvlib:Load Settings from XML.vi">
       <Breakpoints>
         <NodeIndexes>
@@ -284,6 +321,48 @@
           <SignalUID value="6848"/>
           <SignalUID value="5431"/>
           <SignalUID value="6236"/>
+          <SignalUID value="3041"/>
+          <SignalUID value="3432"/>
+          <SignalUID value="1137"/>
+          <SignalUID value="2768"/>
+          <SignalUID value="4613"/>
+          <SignalUID value="3130"/>
+          <SignalUID value="2530"/>
+          <SignalUID value="2261"/>
+          <SignalUID value="2746"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Settings.lvlib:Update Hardware Settings.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="699"/>
+          <SignalUID value="2523"/>
+          <SignalUID value="3799"/>
+          <SignalUID value="469"/>
+          <SignalUID value="466"/>
+          <SignalUID value="454"/>
+          <SignalUID value="463"/>
+          <SignalUID value="1991"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Untitled 3">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="459"/>
         </Generic>
       </Probes>
     </VI>
