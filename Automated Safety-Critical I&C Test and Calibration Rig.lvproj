@@ -117,6 +117,7 @@
 		<Item Name="Fetch SensorID Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/Fetch SensorID Payload.ctl"/>
 		<Item Name="MSG FetchSensorID Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/MSG FetchSensorID Payload.ctl"/>
 		<Item Name="DB TestRunChannel Record.ctl" Type="VI" URL="../controls/Messaging Payloads/DB TestRunChannel Record.ctl"/>
+		<Item Name="Test Parameters Cluster.ctl" Type="VI" URL="../Processing/Test Parameters Cluster.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">

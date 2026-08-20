@@ -7,16 +7,17 @@
 
 </Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="support" Type="Folder">
 		<Item Name="Processing Settings.ctl" Type="VI" URL="../Processing Settings.ctl"/>
 		<Item Name="Processing State.ctl" Type="VI" URL="../Processing State.ctl"/>
 	</Item>
+	<Item Name="Processing Message Loop.vi" Type="VI" URL="../Processing Message Loop.vi"/>
 	<Item Name="Cache Data Point.vi" Type="VI" URL="../Cache Data Point.vi"/>
 	<Item Name="Create Calibration Point Check.vi" Type="VI" URL="../Create Calibration Point Check.vi"/>
 	<Item Name="Error Handler - Processing Message Loop.vi" Type="VI" URL="../Error Handler - Processing Message Loop.vi"/>
 	<Item Name="Flush Data to Log File.vi" Type="VI" URL="../Flush Data to Log File.vi"/>
 	<Item Name="Overwrite Live Array.vi" Type="VI" URL="../Overwrite Live Array.vi"/>
 	<Item Name="Process Data.vi" Type="VI" URL="../Process Data.vi"/>
-	<Item Name="Processing Message Loop.vi" Type="VI" URL="../Processing Message Loop.vi"/>
 	<Item Name="Test Parameters.ctl" Type="VI" URL="../Test Parameters.ctl"/>
 </Library>
