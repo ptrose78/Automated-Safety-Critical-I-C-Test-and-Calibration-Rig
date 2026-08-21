@@ -10,11 +10,10 @@
       </Breakpoints>
       <Probes>
         <Generic>
-          <SignalUID value="1609"/>
-          <SignalUID value="956"/>
           <SignalUID value="1378"/>
           <SignalUID value="2228"/>
           <SignalUID value="1288"/>
+          <SignalUID value="1609"/>
         </Generic>
       </Probes>
     </VI>
@@ -213,10 +212,16 @@
           <SignalUID value="4648"/>
           <SignalUID value="3356"/>
           <SignalUID value="1845"/>
+          <SignalUID value="14039"/>
+          <SignalUID value="6409"/>
+          <SignalUID value="8616"/>
+          <SignalUID value="7216"/>
+          <SignalUID value="8901"/>
+          <SignalUID value="7597"/>
         </Generic>
       </Probes>
     </VI>
-    <VI name="Processing_Engine.lvlib:Create Calibration Point Check.vi">
+    <VI name="Processing_Engine.lvlib:Check Calibration Point.vi">
       <Breakpoints>
         <NodeIndexes>
         </NodeIndexes>
@@ -241,15 +246,12 @@
           <SignalUID value="1607"/>
           <SignalUID value="640"/>
           <SignalUID value="1822"/>
-          <SignalUID value="3030"/>
           <SignalUID value="2990"/>
           <SignalUID value="2462"/>
           <SignalUID value="682"/>
           <SignalUID value="1914"/>
           <SignalUID value="2108"/>
-          <SignalUID value="1165"/>
           <SignalUID value="262"/>
-          <SignalUID value="576"/>
           <SignalUID value="957"/>
           <SignalUID value="1541"/>
           <SignalUID value="2040"/>
@@ -273,6 +275,28 @@
           <SignalUID value="4164"/>
           <SignalUID value="560"/>
           <SignalUID value="2129"/>
+          <SignalUID value="1067"/>
+          <SignalUID value="1872"/>
+          <SignalUID value="2906"/>
+          <SignalUID value="1806"/>
+          <SignalUID value="2587"/>
+          <SignalUID value="2072"/>
+          <SignalUID value="2656"/>
+          <SignalUID value="2866"/>
+          <SignalUID value="1165"/>
+          <SignalUID value="1573"/>
+          <SignalUID value="2786"/>
+          <SignalUID value="2028"/>
+          <SignalUID value="1761"/>
+          <SignalUID value="3030"/>
+          <SignalUID value="3382"/>
+          <SignalUID value="3132"/>
+          <SignalUID value="2735"/>
+          <SignalUID value="2133"/>
+          <SignalUID value="3134"/>
+          <SignalUID value="3416"/>
+          <SignalUID value="632"/>
+          <SignalUID value="2139"/>
         </Generic>
       </Probes>
     </VI>
