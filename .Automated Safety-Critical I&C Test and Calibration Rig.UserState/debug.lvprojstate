@@ -245,6 +245,8 @@
         <NodeIndexes>
         </NodeIndexes>
         <SignalIndexes>
+          <Signal index="1658" enabled="1"/>
+          <Signal index="2557" enabled="1"/>
         </SignalIndexes>
       </Breakpoints>
       <Probes>
