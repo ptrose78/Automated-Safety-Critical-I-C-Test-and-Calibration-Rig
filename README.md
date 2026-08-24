@@ -50,7 +50,7 @@ The system coordinates simulated or physical data acquisition, pass/fail evaluat
                                              │   Graph / UI Loop  │
                                              │ (Real-Time Display)│
                                              └────────────────────┘
-
+```
 ---
 
 ## 🔑 Key Features

@@ -50,6 +50,7 @@
 				<Item Name="Set Visible State on Multiple Controls.vi" Type="VI" URL="../support/UI Utilities/Set Visible State on Multiple Controls.vi"/>
 				<Item Name="Set Admin Visible .vi" Type="VI" URL="../support/UI Utilities/Set Admin Visible .vi"/>
 				<Item Name="Set Visible State on Pages.vi" Type="VI" URL="../support/UI Utilities/Set Visible State on Pages.vi"/>
+				<Item Name="Get Enum Text.vi" Type="VI" URL="../support/UI Utilities/Get Enum Text.vi"/>
 				<Item Name="Set Enable State on Multiple Controls.vi" Type="VI" URL="../support/UI Utilities/Set Enable State on Multiple Controls.vi"/>
 			</Item>
 		</Item>
@@ -118,6 +119,7 @@
 		<Item Name="MSG FetchSensorID Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/MSG FetchSensorID Payload.ctl"/>
 		<Item Name="DB TestRunChannel Record.ctl" Type="VI" URL="../controls/Messaging Payloads/DB TestRunChannel Record.ctl"/>
 		<Item Name="Test Parameters Cluster.ctl" Type="VI" URL="../Processing/Test Parameters Cluster.ctl"/>
+		<Item Name="Measurement Role.ctl" Type="VI" URL="../controls/UI/Measurement Role.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">
