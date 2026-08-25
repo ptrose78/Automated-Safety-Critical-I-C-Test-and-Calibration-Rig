@@ -21,4 +21,6 @@
 	<Item Name="Overwrite Live Array at Specified Point.vi" Type="VI" URL="../Overwrite Live Array at Specified Point.vi"/>
 	<Item Name="Process Data.vi" Type="VI" URL="../Process Data.vi"/>
 	<Item Name="Test Parameters.ctl" Type="VI" URL="../Test Parameters.ctl"/>
+	<Item Name="Determine Next Operation.vi" Type="VI" URL="../Determine Next Operation.vi"/>
+	<Item Name="Find Pass or Fail.vi" Type="VI" URL="../Find Pass or Fail.vi"/>
 </Library>
