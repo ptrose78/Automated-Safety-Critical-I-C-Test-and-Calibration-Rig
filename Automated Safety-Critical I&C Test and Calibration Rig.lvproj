@@ -65,6 +65,8 @@
 				<Item Name="Settings Cluster.ctl" Type="VI" URL="../controls/UI/Settings Cluster.ctl"/>
 				<Item Name="Settings Refs.ctl" Type="VI" URL="../controls/UI/Settings Refs.ctl"/>
 				<Item Name="System Config.ctl" Type="VI" URL="../controls/UI/System Config.ctl"/>
+				<Item Name="Test Sequence Settings.ctl" Type="VI" URL="../controls/UI/Test Sequence Settings.ctl"/>
+				<Item Name="Test Sequence Enum.ctl" Type="VI" URL="../controls/UI/Test Sequence Enum.ctl"/>
 				<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI/UI Data.ctl"/>
 				<Item Name="UI State.ctl" Type="VI" URL="../controls/UI/UI State.ctl"/>
 				<Item Name="Units Enum.ctl" Type="VI" URL="../controls/UI/Units Enum.ctl"/>
@@ -121,6 +123,12 @@
 		<Item Name="Test Parameters Cluster.ctl" Type="VI" URL="../Processing/Test Parameters Cluster.ctl"/>
 		<Item Name="Measurement Role.ctl" Type="VI" URL="../controls/UI/Measurement Role.ctl"/>
 		<Item Name="Create Processing Payload.vi" Type="VI" URL="../support/UI Utilities/Create Processing Payload.vi"/>
+		<Item Name="Test Sequence State.ctl" Type="VI" URL="../controls/UI/Test Sequence State.ctl"/>
+		<Item Name="Direction.ctl" Type="VI" URL="../controls/UI/Direction.ctl"/>
+		<Item Name="Find Setpoint.vi" Type="VI" URL="../support/UI Utilities/Find Setpoint.vi"/>
+		<Item Name="Acquisition Context.ctl" Type="VI" URL="../Acquisition/Acquisition Context.ctl"/>
+		<Item Name="Acquisition Payload.ctl" Type="VI" URL="../Acquisition/Acquisition Payload.ctl"/>
+		<Item Name="Initiate Test.vi" Type="VI" URL="../support/UI Utilities/Initiate Test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">

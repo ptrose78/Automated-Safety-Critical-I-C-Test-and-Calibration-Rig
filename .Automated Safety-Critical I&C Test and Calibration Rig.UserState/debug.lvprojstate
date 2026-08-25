@@ -15,6 +15,7 @@
           <SignalUID value="1288"/>
           <SignalUID value="1609"/>
           <SignalUID value="5717"/>
+          <SignalUID value="1663"/>
         </Generic>
       </Probes>
     </VI>
@@ -147,6 +148,19 @@
         </Generic>
       </Probes>
     </VI>
+    <VI name="Find Setpoint.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="871"/>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="Load System Config File.vi">
       <Breakpoints>
         <NodeIndexes>
@@ -220,6 +234,26 @@
         </Generic>
       </Probes>
     </VI>
+    <VI name="Processing_Engine.lvlib:Find Pass or Fail.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+          <Signal index="822" enabled="1"/>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="674"/>
+          <SignalUID value="4622"/>
+          <SignalUID value="788"/>
+          <SignalUID value="4465"/>
+          <SignalUID value="152"/>
+          <SignalUID value="822"/>
+          <SignalUID value="816"/>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="Processing_Engine.lvlib:Process Data.vi">
       <Breakpoints>
         <NodeIndexes>
@@ -282,6 +316,14 @@
           <SignalUID value="3416"/>
           <SignalUID value="632"/>
           <SignalUID value="2139"/>
+          <SignalUID value="3044"/>
+          <SignalUID value="987"/>
+          <SignalUID value="2866"/>
+          <SignalUID value="3069"/>
+          <SignalUID value="1388"/>
+          <SignalUID value="1637"/>
+          <SignalUID value="565"/>
+          <SignalUID value="3456"/>
         </Generic>
       </Probes>
     </VI>
