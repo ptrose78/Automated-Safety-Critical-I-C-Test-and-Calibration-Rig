@@ -10,10 +10,10 @@
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="support" Type="Folder">
 		<Item Name="Acquisition State.ctl" Type="VI" URL="../Acquisition State.ctl"/>
-		<Item Name="Hardware Configuration.ctl" Type="VI" URL="../Hardware Configuration.ctl"/>
+		<Item Name="Instrument Specifications Configuration.ctl" Type="VI" URL="../Instrument Specifications Configuration.ctl"/>
 		<Item Name="Signal Type.ctl" Type="VI" URL="../Signal Type.ctl"/>
 	</Item>
-	<Item Name="Hardware Cluster Configuration.ctl" Type="VI" URL="../Hardware Cluster Configuration.ctl"/>
+	<Item Name="Instrument Specifications Cluster Configuration.ctl" Type="VI" URL="../Instrument Specifications Cluster Configuration.ctl"/>
 	<Item Name="Acquisition Message Loop.vi" Type="VI" URL="../Acquisition Message Loop.vi"/>
 	<Item Name="Acquire.vi" Type="VI" URL="../Acquire.vi"/>
 	<Item Name="Configure Hardware.vi" Type="VI" URL="../Configure Hardware.vi"/>

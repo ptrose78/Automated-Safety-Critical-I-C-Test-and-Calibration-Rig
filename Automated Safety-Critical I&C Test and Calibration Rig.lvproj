@@ -70,8 +70,8 @@
 				<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI/UI Data.ctl"/>
 				<Item Name="UI State.ctl" Type="VI" URL="../controls/UI/UI State.ctl"/>
 				<Item Name="Units Enum.ctl" Type="VI" URL="../controls/UI/Units Enum.ctl"/>
-				<Item Name="UUT Channel Config.ctl" Type="VI" URL="../controls/UI/UUT Channel Config.ctl"/>
-				<Item Name="UUT Channels Config.ctl" Type="VI" URL="../controls/UI/UUT Channels Config.ctl"/>
+				<Item Name="Measurement Config.ctl" Type="VI" URL="../controls/UI/Measurement Config.ctl"/>
+				<Item Name="Measurements Config.ctl" Type="VI" URL="../controls/UI/Measurements Config.ctl"/>
 			</Item>
 			<Item Name="Diagnostics" Type="Folder">
 				<Item Name="Error Cluster.ctl" Type="VI" URL="../controls/Diagnostics/Error Cluster.ctl"/>
@@ -129,6 +129,10 @@
 		<Item Name="Acquisition Context.ctl" Type="VI" URL="../Acquisition/Acquisition Context.ctl"/>
 		<Item Name="Acquisition Payload.ctl" Type="VI" URL="../Acquisition/Acquisition Payload.ctl"/>
 		<Item Name="Initiate Test.vi" Type="VI" URL="../support/UI Utilities/Initiate Test.vi"/>
+		<Item Name="Analog Output.ctl" Type="VI" URL="../controls/UI/Analog Output.ctl"/>
+		<Item Name="Stimulus Output Config.ctl" Type="VI" URL="../controls/UI/Stimulus Output Config.ctl"/>
+		<Item Name="Stimulus Role.ctl" Type="VI" URL="../controls/UI/Stimulus Role.ctl"/>
+		<Item Name="Stimulus Outputs Config.ctl" Type="VI" URL="../controls/UI/Stimulus Outputs Config.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">
