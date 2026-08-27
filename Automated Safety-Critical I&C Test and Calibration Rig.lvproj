@@ -130,9 +130,10 @@
 		<Item Name="Acquisition Payload.ctl" Type="VI" URL="../Acquisition/Acquisition Payload.ctl"/>
 		<Item Name="Initiate Test.vi" Type="VI" URL="../support/UI Utilities/Initiate Test.vi"/>
 		<Item Name="Analog Output.ctl" Type="VI" URL="../controls/UI/Analog Output.ctl"/>
-		<Item Name="Stimulus Output Config.ctl" Type="VI" URL="../controls/UI/Stimulus Output Config.ctl"/>
+		<Item Name="Stimulus Output.ctl" Type="VI" URL="../controls/UI/Stimulus Output.ctl"/>
 		<Item Name="Stimulus Role.ctl" Type="VI" URL="../controls/UI/Stimulus Role.ctl"/>
-		<Item Name="Stimulus Outputs Config.ctl" Type="VI" URL="../controls/UI/Stimulus Outputs Config.ctl"/>
+		<Item Name="Stimulus Outputs.ctl" Type="VI" URL="../controls/UI/Stimulus Outputs.ctl"/>
+		<Item Name="Stimulus Settings.ctl" Type="VI" URL="../controls/UI/Stimulus Settings.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">

@@ -424,7 +424,7 @@
         </Generic>
       </Probes>
     </VI>
-    <VI name="Settings.lvlib:Update Hardware Settings.vi">
+    <VI name="Settings.lvlib:Update Instrument Specifications.vi">
       <Breakpoints>
         <NodeIndexes>
         </NodeIndexes>

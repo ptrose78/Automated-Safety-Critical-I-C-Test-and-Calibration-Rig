@@ -16,9 +16,11 @@
 	<Item Name="Instrument Specifications Cluster Configuration.ctl" Type="VI" URL="../Instrument Specifications Cluster Configuration.ctl"/>
 	<Item Name="Acquisition Message Loop.vi" Type="VI" URL="../Acquisition Message Loop.vi"/>
 	<Item Name="Acquire.vi" Type="VI" URL="../Acquire.vi"/>
+	<Item Name="Apply Stimulus.vi" Type="VI" URL="../Apply Stimulus.vi"/>
 	<Item Name="Configure Hardware.vi" Type="VI" URL="../Configure Hardware.vi"/>
 	<Item Name="Generate Simulated Data.vi" Type="VI" URL="../Generate Simulated Data.vi"/>
 	<Item Name="Initialize Hardware References.vi" Type="VI" URL="../Initialize Hardware References.vi"/>
 	<Item Name="Stop Acquisition.vi" Type="VI" URL="../Stop Acquisition.vi"/>
 	<Item Name="Error Handler - Acquisition Message Loop.vi" Type="VI" URL="../Error Handler - Acquisition Message Loop.vi"/>
+	<Item Name="Create Channels.vi" Type="VI" URL="../Create Channels.vi"/>
 </Library>
