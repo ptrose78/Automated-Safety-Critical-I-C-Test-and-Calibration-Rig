@@ -34,6 +34,22 @@
         </Generic>
       </Probes>
     </VI>
+    <VI name="Acquisition.lvlib:Apply Stimulus.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="202"/>
+          <SignalUID value="839"/>
+          <SignalUID value="961"/>
+          <SignalUID value="947"/>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="Acquisition.lvlib:Initialize Hardware References.vi">
       <Breakpoints>
         <NodeIndexes>

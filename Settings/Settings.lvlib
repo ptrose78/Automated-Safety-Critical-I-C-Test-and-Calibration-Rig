@@ -22,4 +22,5 @@
 	<Item Name="Update Instrument Specifications.vi" Type="VI" URL="../Update Instrument Specifications.vi"/>
 	<Item Name="Overwrite Physical Channel.vi" Type="VI" URL="../Overwrite Physical Channel.vi"/>
 	<Item Name="Overwrite Measurement Role.vi" Type="VI" URL="../Overwrite Measurement Role.vi"/>
+	<Item Name="Initiate Model and Serial Numbers.vi" Type="VI" URL="../Initiate Model and Serial Numbers.vi"/>
 </Library>

@@ -60,7 +60,7 @@
 				<Item Name="Config Settings.ctl" Type="VI" URL="../controls/UI/Config Settings.ctl"/>
 				<Item Name="Folder Name.ctl" Type="VI" URL="../controls/UI/Folder Name.ctl"/>
 				<Item Name="Login Refs.ctl" Type="VI" URL="../controls/UI/Login Refs.ctl"/>
-				<Item Name="Output Signal Enum.ctl" Type="VI" URL="../controls/UI/Output Signal Enum.ctl"/>
+				<Item Name="Signal Enum.ctl" Type="VI" URL="../controls/UI/Signal Enum.ctl"/>
 				<Item Name="Session Identfiers.ctl" Type="VI" URL="../controls/UI/Session Identfiers.ctl"/>
 				<Item Name="Settings Cluster.ctl" Type="VI" URL="../controls/UI/Settings Cluster.ctl"/>
 				<Item Name="Settings Refs.ctl" Type="VI" URL="../controls/UI/Settings Refs.ctl"/>
@@ -102,6 +102,9 @@
 			<Item Name="Loop Memory" Type="Folder">
 				<Item Name="DB Session Data.ctl" Type="VI" URL="../controls/Loop Memory/DB Session Data.ctl"/>
 			</Item>
+			<Item Name="Controller" Type="Folder">
+				<Item Name="Stimulus Role.ctl" Type="VI" URL="../controls/Controller/Stimulus Role.ctl"/>
+			</Item>
 			<Item Name="UI List Type.ctl" Type="VI" URL="../controls/UI/UI List Type.ctl"/>
 		</Item>
 		<Item Name="Admin.lvlib" Type="Library" URL="../Admin/Admin.lvlib"/>
@@ -130,10 +133,14 @@
 		<Item Name="Acquisition Payload.ctl" Type="VI" URL="../Acquisition/Acquisition Payload.ctl"/>
 		<Item Name="Initiate Test.vi" Type="VI" URL="../support/UI Utilities/Initiate Test.vi"/>
 		<Item Name="Analog Output.ctl" Type="VI" URL="../controls/UI/Analog Output.ctl"/>
-		<Item Name="Stimulus Output.ctl" Type="VI" URL="../controls/UI/Stimulus Output.ctl"/>
-		<Item Name="Stimulus Role.ctl" Type="VI" URL="../controls/UI/Stimulus Role.ctl"/>
-		<Item Name="Stimulus Outputs.ctl" Type="VI" URL="../controls/UI/Stimulus Outputs.ctl"/>
-		<Item Name="Stimulus Settings.ctl" Type="VI" URL="../controls/UI/Stimulus Settings.ctl"/>
+		<Item Name="Stimulus Output Display.ctl" Type="VI" URL="../controls/UI/Stimulus Output Display.ctl"/>
+		<Item Name="Stimulus Outputs Display.ctl" Type="VI" URL="../controls/UI/Stimulus Outputs Display.ctl"/>
+		<Item Name="Stimulus Output.ctl" Type="VI" URL="../controls/Controller/Stimulus Output.ctl"/>
+		<Item Name="Stimulus Outputs.ctl" Type="VI" URL="../controls/Controller/Stimulus Outputs.ctl"/>
+		<Item Name="Controller Core Data.ctl" Type="VI" URL="../controls/Controller/Controller Core Data.ctl"/>
+		<Item Name="Stimulus Output Configuration.ctl" Type="VI" URL="../controls/Controller/Stimulus Output Configuration.ctl"/>
+		<Item Name="UI Device Type.ctl" Type="VI" URL="../controls/UI/UI Device Type.ctl"/>
+		<Item Name="Stimulus Settings.ctl" Type="VI" URL="../controls/Controller/Stimulus Settings.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">
