@@ -24,4 +24,5 @@
 	<Item Name="Stop Acquisition.vi" Type="VI" URL="../Stop Acquisition.vi"/>
 	<Item Name="Error Handler - Acquisition Message Loop.vi" Type="VI" URL="../Error Handler - Acquisition Message Loop.vi"/>
 	<Item Name="Create Channels.vi" Type="VI" URL="../Create Channels.vi"/>
+	<Item Name="Simulate Pressures.vi" Type="VI" URL="../Simulate Pressures.vi"/>
 </Library>
