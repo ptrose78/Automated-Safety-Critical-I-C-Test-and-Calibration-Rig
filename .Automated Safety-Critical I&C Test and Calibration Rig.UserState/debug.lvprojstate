@@ -498,6 +498,17 @@
           <SignalUID value="750"/>
           <SignalUID value="1793"/>
           <SignalUID value="1619"/>
+          <SignalUID value="457"/>
+          <SignalUID value="460"/>
+          <SignalUID value="715"/>
+          <SignalUID value="516"/>
+          <SignalUID value="1515"/>
+          <SignalUID value="1529"/>
+          <SignalUID value="531"/>
+          <SignalUID value="1668"/>
+          <SignalUID value="693"/>
+          <SignalUID value="2537"/>
+          <SignalUID value="675"/>
         </Generic>
       </Probes>
     </VI>

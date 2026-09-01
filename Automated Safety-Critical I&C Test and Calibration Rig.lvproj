@@ -142,6 +142,7 @@
 		<Item Name="UI Device Type.ctl" Type="VI" URL="../controls/UI/UI Device Type.ctl"/>
 		<Item Name="Stimulus Settings.ctl" Type="VI" URL="../controls/Controller/Stimulus Settings.ctl"/>
 		<Item Name="Create Acquistion Context Payload.vi" Type="VI" URL="../support/UI Utilities/Create Acquistion Context Payload.vi"/>
+		<Item Name="Execute Test.vi" Type="VI" URL="../support/UI Utilities/Execute Test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">
