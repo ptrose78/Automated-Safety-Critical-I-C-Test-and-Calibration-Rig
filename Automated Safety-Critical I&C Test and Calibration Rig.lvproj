@@ -147,6 +147,7 @@
 		<Item Name="Sensor Diagnostics Cluster.ctl" Type="VI" URL="../Processing/Sensor Diagnostics Cluster.ctl"/>
 		<Item Name="Test Sequence Context Cluster.ctl" Type="VI" URL="../controls/UI/Test Sequence Context Cluster.ctl"/>
 		<Item Name="Test Sequence Context.ctl" Type="VI" URL="../controls/UI/Test Sequence Context.ctl"/>
+		<Item Name="DB Query Request 2D Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/DB Query Request 2D Payload.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">

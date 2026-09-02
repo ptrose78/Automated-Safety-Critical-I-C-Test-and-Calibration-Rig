@@ -8,9 +8,10 @@
 </Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
-	<Item Name="DB Message Loop.vi" Type="VI" URL="../DB Message Loop.vi"/>
+	<Item Name="Calibration Analysis.vi" Type="VI" URL="../Calibration Analysis.vi"/>
 	<Item Name="Create Table.vi" Type="VI" URL="../Create Table.vi"/>
 	<Item Name="DB Fetch UI List.vi" Type="VI" URL="../DB Fetch UI List.vi"/>
+	<Item Name="DB Message Loop.vi" Type="VI" URL="../DB Message Loop.vi"/>
 	<Item Name="DB Request UI List.vi" Type="VI" URL="../DB Request UI List.vi"/>
 	<Item Name="Error Handler - DB Handling Loop.vi" Type="VI" URL="../Error Handler - DB Handling Loop.vi"/>
 	<Item Name="Fetch Model Config.vi" Type="VI" URL="../Fetch Model Config.vi"/>
@@ -20,4 +21,6 @@
 	<Item Name="Fetch SensorID.vi" Type="VI" URL="../Fetch SensorID.vi"/>
 	<Item Name="Write System Error To DB.vi" Type="VI" URL="../Write System Error To DB.vi"/>
 	<Item Name="Write Telemetry Data To DB.vi" Type="VI" URL="../Write Telemetry Data To DB.vi"/>
+	<Item Name="Fetch Calibration Points.vi" Type="VI" URL="../Fetch Calibration Points.vi"/>
+	<Item Name="DB Request Calibration Points.vi" Type="VI" URL="../DB Request Calibration Points.vi"/>
 </Library>
