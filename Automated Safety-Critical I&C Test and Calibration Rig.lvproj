@@ -143,6 +143,10 @@
 		<Item Name="Stimulus Settings.ctl" Type="VI" URL="../controls/Controller/Stimulus Settings.ctl"/>
 		<Item Name="Create Acquistion Context Payload.vi" Type="VI" URL="../support/UI Utilities/Create Acquistion Context Payload.vi"/>
 		<Item Name="Execute Test.vi" Type="VI" URL="../support/UI Utilities/Execute Test.vi"/>
+		<Item Name="Sensor Diagnostics.ctl" Type="VI" URL="../Processing/Sensor Diagnostics.ctl"/>
+		<Item Name="Sensor Diagnostics Cluster.ctl" Type="VI" URL="../Processing/Sensor Diagnostics Cluster.ctl"/>
+		<Item Name="Test Sequence Context Cluster.ctl" Type="VI" URL="../controls/UI/Test Sequence Context Cluster.ctl"/>
+		<Item Name="Test Sequence Context.ctl" Type="VI" URL="../controls/UI/Test Sequence Context.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">
