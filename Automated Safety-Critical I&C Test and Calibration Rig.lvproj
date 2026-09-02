@@ -109,6 +109,7 @@
 		</Item>
 		<Item Name="Admin.lvlib" Type="Library" URL="../Admin/Admin.lvlib"/>
 		<Item Name="Acquisition.lvlib" Type="Library" URL="../Acquisition/Acquisition.lvlib"/>
+		<Item Name="Analysis.lvlib" Type="Library" URL="../Analysis/Analysis.lvlib"/>
 		<Item Name="Database.lvlib" Type="Library" URL="../Database/Database.lvlib"/>
 		<Item Name="Logging.lvlib" Type="Library" URL="../Logging/Logging.lvlib"/>
 		<Item Name="Settings.lvlib" Type="Library" URL="../Settings/Settings.lvlib"/>
@@ -148,6 +149,8 @@
 		<Item Name="Test Sequence Context Cluster.ctl" Type="VI" URL="../controls/UI/Test Sequence Context Cluster.ctl"/>
 		<Item Name="Test Sequence Context.ctl" Type="VI" URL="../controls/UI/Test Sequence Context.ctl"/>
 		<Item Name="DB Query Request 2D Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/DB Query Request 2D Payload.ctl"/>
+		<Item Name="Test Results.ctl" Type="VI" URL="../Analysis/Test Results.ctl"/>
+		<Item Name="Test Details.ctl" Type="VI" URL="../Analysis/Test Details.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">
