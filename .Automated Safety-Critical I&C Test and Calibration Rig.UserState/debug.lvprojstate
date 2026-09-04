@@ -81,6 +81,23 @@
         </Generic>
       </Probes>
     </VI>
+    <VI name="Analysis.lvlib:Calculate Hysteresis.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="796"/>
+          <SignalUID value="1237"/>
+          <SignalUID value="1264"/>
+          <SignalUID value="1491"/>
+          <SignalUID value="227"/>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="Analysis.lvlib:Fetch Run Start Times.vi">
       <Breakpoints>
         <NodeIndexes>
@@ -342,7 +359,6 @@
         <NodeIndexes>
         </NodeIndexes>
         <SignalIndexes>
-          <Signal index="1872" enabled="1"/>
         </SignalIndexes>
       </Breakpoints>
       <Probes>
@@ -381,7 +397,6 @@
           <SignalUID value="3134"/>
           <SignalUID value="3416"/>
           <SignalUID value="3825"/>
-          <SignalUID value="1872"/>
         </Generic>
       </Probes>
     </VI>

@@ -7,7 +7,10 @@
 </Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Analysis Dialog.vi" Type="VI" URL="../Analysis Dialog.vi"/>
+	<Item Name="Calculate Hysteresis.vi" Type="VI" URL="../Calculate Hysteresis.vi"/>
+	<Item Name="Convert Calibration Point.vi" Type="VI" URL="../../support/UI Utilities/Convert Calibration Point.vi"/>
 	<Item Name="DB Request Calibration Points.vi" Type="VI" URL="../../Database/DB Request Calibration Points.vi"/>
 	<Item Name="Fetch Run Start Times.vi" Type="VI" URL="../Fetch Run Start Times.vi"/>
 	<Item Name="Initiate Model and Serial Numbers.vi" Type="VI" URL="../Initiate Model and Serial Numbers.vi"/>
+	<Item Name="Remove Max Setpoints.vi" Type="VI" URL="../Remove Max Setpoints.vi"/>
 </Library>
