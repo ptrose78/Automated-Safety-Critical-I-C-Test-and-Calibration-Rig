@@ -9,4 +9,5 @@
 	<Item Name="Analysis Dialog.vi" Type="VI" URL="../Analysis Dialog.vi"/>
 	<Item Name="DB Request Calibration Points.vi" Type="VI" URL="../../Database/DB Request Calibration Points.vi"/>
 	<Item Name="Fetch Run Start Times.vi" Type="VI" URL="../Fetch Run Start Times.vi"/>
+	<Item Name="Initiate Model and Serial Numbers.vi" Type="VI" URL="../Initiate Model and Serial Numbers.vi"/>
 </Library>
