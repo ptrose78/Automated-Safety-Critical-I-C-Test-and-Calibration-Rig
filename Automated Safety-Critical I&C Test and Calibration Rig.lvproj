@@ -152,6 +152,7 @@
 		<Item Name="Test Results.ctl" Type="VI" URL="../Analysis/Test Results.ctl"/>
 		<Item Name="Test Details.ctl" Type="VI" URL="../Analysis/Test Details.ctl"/>
 		<Item Name="Analytics Refs.ctl" Type="VI" URL="../controls/UI/Analytics Refs.ctl"/>
+		<Item Name="Insert Calibration Session.vi" Type="VI" URL="../support/UI Utilities/Insert Calibration Session.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">
