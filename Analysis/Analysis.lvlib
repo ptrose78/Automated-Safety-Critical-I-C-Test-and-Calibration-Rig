@@ -21,4 +21,6 @@
 	<Item Name="Test Results.ctl" Type="VI" URL="../Test Results.ctl"/>
 	<Item Name="Test Details.ctl" Type="VI" URL="../Test Details.ctl"/>
 	<Item Name="Repeatability Result.ctl" Type="VI" URL="../Repeatability Result.ctl"/>
+	<Item Name="Calculate Accuracy.vi" Type="VI" URL="../Calculate Accuracy.vi"/>
+	<Item Name="Accuracy Result.ctl" Type="VI" URL="../Accuracy Result.ctl"/>
 </Library>
