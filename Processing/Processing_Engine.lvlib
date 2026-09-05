@@ -15,6 +15,7 @@
 	<Item Name="Processing Message Loop.vi" Type="VI" URL="../Processing Message Loop.vi"/>
 	<Item Name="Cache Failed Data Point.vi" Type="VI" URL="../Cache Failed Data Point.vi"/>
 	<Item Name="Check Calibration Point.vi" Type="VI" URL="../Check Calibration Point.vi"/>
+	<Item Name="Create Processing Payload.vi" Type="VI" URL="../../support/UI Utilities/Create Processing Payload.vi"/>
 	<Item Name="Error Handler - Processing Message Loop.vi" Type="VI" URL="../Error Handler - Processing Message Loop.vi"/>
 	<Item Name="Flush Data to Log File.vi" Type="VI" URL="../Flush Data to Log File.vi"/>
 	<Item Name="Overwrite Live Array.vi" Type="VI" URL="../Overwrite Live Array.vi"/>

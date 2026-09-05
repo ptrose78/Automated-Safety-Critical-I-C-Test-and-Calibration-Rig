@@ -126,32 +126,6 @@
         </Generic>
       </Probes>
     </VI>
-    <VI name="Create Processing Payload.vi">
-      <Breakpoints>
-        <NodeIndexes>
-        </NodeIndexes>
-        <SignalIndexes>
-        </SignalIndexes>
-      </Breakpoints>
-      <Probes>
-        <Generic>
-          <SignalUID value="6177"/>
-          <SignalUID value="6196"/>
-        </Generic>
-      </Probes>
-    </VI>
-    <VI name="Database.lvlib:DB Fetch UI List.vi">
-      <Breakpoints>
-        <NodeIndexes>
-        </NodeIndexes>
-        <SignalIndexes>
-        </SignalIndexes>
-      </Breakpoints>
-      <Probes>
-        <Generic>
-        </Generic>
-      </Probes>
-    </VI>
     <VI name="Database.lvlib:DB Message Loop.vi">
       <Breakpoints>
         <NodeIndexes>
@@ -239,18 +213,6 @@
           <SignalUID value="1400"/>
           <SignalUID value="354"/>
           <SignalUID value="366"/>
-        </Generic>
-      </Probes>
-    </VI>
-    <VI name="Find Setpoint.vi">
-      <Breakpoints>
-        <NodeIndexes>
-        </NodeIndexes>
-        <SignalIndexes>
-        </SignalIndexes>
-      </Breakpoints>
-      <Probes>
-        <Generic>
         </Generic>
       </Probes>
     </VI>
@@ -354,6 +316,20 @@
         </Generic>
       </Probes>
     </VI>
+    <VI name="Processing_Engine.lvlib:Create Processing Payload.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="6177"/>
+          <SignalUID value="6196"/>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="Processing_Engine.lvlib:Process Data.vi">
       <Breakpoints>
         <NodeIndexes>
@@ -397,18 +373,6 @@
           <SignalUID value="3134"/>
           <SignalUID value="3416"/>
           <SignalUID value="3825"/>
-        </Generic>
-      </Probes>
-    </VI>
-    <VI name="Processing_Engine.lvlib:Processing Message Loop.vi">
-      <Breakpoints>
-        <NodeIndexes>
-        </NodeIndexes>
-        <SignalIndexes>
-        </SignalIndexes>
-      </Breakpoints>
-      <Probes>
-        <Generic>
         </Generic>
       </Probes>
     </VI>

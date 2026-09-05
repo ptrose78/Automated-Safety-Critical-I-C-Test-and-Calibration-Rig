@@ -9,18 +9,39 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="support" Type="Folder"/>
-	<Item Name="Settings Dialog.vi" Type="VI" URL="../Settings Dialog.vi"/>
-	<Item Name="Fetch All Operators.vi" Type="VI" URL="../Fetch All Operators.vi"/>
-	<Item Name="Fetch SensorID.vi" Type="VI" URL="../../support/UI Utilities/Fetch SensorID.vi"/>
-	<Item Name="Get Config File Path.vi" Type="VI" URL="../Get Config File Path.vi"/>
-	<Item Name="Load Settings from XML.vi" Type="VI" URL="../Load Settings from XML.vi"/>
-	<Item Name="Save Settings to XML.vi" Type="VI" URL="../Save Settings to XML.vi"/>
-	<Item Name="Form Check.vi" Type="VI" URL="../Form Check.vi"/>
 	<Item Name="Assign Error.vi" Type="VI" URL="../Assign Error.vi"/>
+	<Item Name="Fetch All Operators.vi" Type="VI" URL="../Fetch All Operators.vi"/>
 	<Item Name="Fetch Config.vi" Type="VI" URL="../Fetch Config.vi"/>
-	<Item Name="Overwrite SensorID.vi" Type="VI" URL="../Overwrite SensorID.vi"/>
-	<Item Name="Update Instrument Specifications.vi" Type="VI" URL="../Update Instrument Specifications.vi"/>
-	<Item Name="Overwrite Physical Channel.vi" Type="VI" URL="../Overwrite Physical Channel.vi"/>
-	<Item Name="Overwrite Measurement Role.vi" Type="VI" URL="../Overwrite Measurement Role.vi"/>
+	<Item Name="Fetch SensorID.vi" Type="VI" URL="../../support/UI Utilities/Fetch SensorID.vi"/>
+	<Item Name="Form Check.vi" Type="VI" URL="../Form Check.vi"/>
+	<Item Name="Get Config File Path.vi" Type="VI" URL="../Get Config File Path.vi"/>
 	<Item Name="Initiate Model and Serial Numbers.vi" Type="VI" URL="../Initiate Model and Serial Numbers.vi"/>
+	<Item Name="Load Settings from XML.vi" Type="VI" URL="../Load Settings from XML.vi"/>
+	<Item Name="Overwrite Measurement Role.vi" Type="VI" URL="../Overwrite Measurement Role.vi"/>
+	<Item Name="Overwrite Physical Channel.vi" Type="VI" URL="../Overwrite Physical Channel.vi"/>
+	<Item Name="Overwrite SensorID.vi" Type="VI" URL="../Overwrite SensorID.vi"/>
+	<Item Name="Save Settings to XML.vi" Type="VI" URL="../Save Settings to XML.vi"/>
+	<Item Name="Settings Dialog.vi" Type="VI" URL="../Settings Dialog.vi"/>
+	<Item Name="Update Instrument Specifications.vi" Type="VI" URL="../Update Instrument Specifications.vi"/>
+	<Item Name="Active Channels Config.ctl" Type="VI" URL="../../controls/Messaging Payloads/Active Channels Config.ctl"/>
+	<Item Name="Analog Output.ctl" Type="VI" URL="../../controls/UI/Analog Output.ctl"/>
+	<Item Name="Channel InsertRequest.ctl" Type="VI" URL="../../controls/Messaging Payloads/Channel InsertRequest.ctl"/>
+	<Item Name="Channel CoreData Cluster.ctl" Type="VI" URL="../../controls/Messaging Payloads/Channel CoreData Cluster.ctl"/>
+	<Item Name="Controller Core Data.ctl" Type="VI" URL="../../controls/Controller/Controller Core Data.ctl"/>
+	<Item Name="Direction.ctl" Type="VI" URL="../../controls/UI/Direction.ctl"/>
+	<Item Name="Measurement Role.ctl" Type="VI" URL="../../controls/UI/Measurement Role.ctl"/>
+	<Item Name="Sensor CoreData Cluster.ctl" Type="VI" URL="../../controls/Messaging Payloads/Sensor CoreData Cluster.ctl"/>
+	<Item Name="Sensor Diagnostics.ctl" Type="VI" URL="../../Processing/Sensor Diagnostics.ctl"/>
+	<Item Name="Sensor Diagnostics Cluster.ctl" Type="VI" URL="../../Processing/Sensor Diagnostics Cluster.ctl"/>
+	<Item Name="Stimulus Output Display.ctl" Type="VI" URL="../../controls/UI/Stimulus Output Display.ctl"/>
+	<Item Name="Stimulus Outputs Display.ctl" Type="VI" URL="../../controls/UI/Stimulus Outputs Display.ctl"/>
+	<Item Name="Stimulus Output.ctl" Type="VI" URL="../../controls/Controller/Stimulus Output.ctl"/>
+	<Item Name="Stimulus Outputs.ctl" Type="VI" URL="../../controls/Controller/Stimulus Outputs.ctl"/>
+	<Item Name="Stimulus Output Configuration.ctl" Type="VI" URL="../../controls/Controller/Stimulus Output Configuration.ctl"/>
+	<Item Name="Stimulus Settings.ctl" Type="VI" URL="../../controls/Controller/Stimulus Settings.ctl"/>
+	<Item Name="Test Parameters Cluster.ctl" Type="VI" URL="../../Processing/Test Parameters Cluster.ctl"/>
+	<Item Name="Test Sequence State.ctl" Type="VI" URL="../../controls/UI/Test Sequence State.ctl"/>
+	<Item Name="Test Sequence Context Cluster.ctl" Type="VI" URL="../../controls/UI/Test Sequence Context Cluster.ctl"/>
+	<Item Name="Test Sequence Context.ctl" Type="VI" URL="../../controls/UI/Test Sequence Context.ctl"/>
+	<Item Name="UI Device Type.ctl" Type="VI" URL="../../controls/UI/UI Device Type.ctl"/>
 </Library>

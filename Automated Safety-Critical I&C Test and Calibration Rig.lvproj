@@ -46,12 +46,16 @@
 				<Item Name="Create Data Directory.vi" Type="VI" URL="../support/File IO/Create Data Directory.vi"/>
 			</Item>
 			<Item Name="UI Utilities" Type="Folder">
-				<Item Name="Login.vi" Type="VI" URL="../support/UI Utilities/Login.vi"/>
-				<Item Name="Set Visible State on Multiple Controls.vi" Type="VI" URL="../support/UI Utilities/Set Visible State on Multiple Controls.vi"/>
-				<Item Name="Set Admin Visible .vi" Type="VI" URL="../support/UI Utilities/Set Admin Visible .vi"/>
-				<Item Name="Set Visible State on Pages.vi" Type="VI" URL="../support/UI Utilities/Set Visible State on Pages.vi"/>
+				<Item Name="Execute Test.vi" Type="VI" URL="../support/UI Utilities/Execute Test.vi"/>
+				<Item Name="Find Setpoint.vi" Type="VI" URL="../support/UI Utilities/Find Setpoint.vi"/>
 				<Item Name="Get Enum Text.vi" Type="VI" URL="../support/UI Utilities/Get Enum Text.vi"/>
+				<Item Name="Initiate Test.vi" Type="VI" URL="../support/UI Utilities/Initiate Test.vi"/>
+				<Item Name="Insert Calibration Session.vi" Type="VI" URL="../support/UI Utilities/Insert Calibration Session.vi"/>
+				<Item Name="Login.vi" Type="VI" URL="../support/UI Utilities/Login.vi"/>
+				<Item Name="Set Admin Visible .vi" Type="VI" URL="../support/UI Utilities/Set Admin Visible .vi"/>
 				<Item Name="Set Enable State on Multiple Controls.vi" Type="VI" URL="../support/UI Utilities/Set Enable State on Multiple Controls.vi"/>
+				<Item Name="Set Visible State on Multiple Controls.vi" Type="VI" URL="../support/UI Utilities/Set Visible State on Multiple Controls.vi"/>
+				<Item Name="Set Visible State on Pages.vi" Type="VI" URL="../support/UI Utilities/Set Visible State on Pages.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
@@ -117,42 +121,6 @@
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="SystemConfig.ini" Type="Document" URL="../SystemConfig.ini"/>
 		<Item Name="SystemConfig.template.ini" Type="Document" URL="../SystemConfig.template.ini"/>
-		<Item Name="Sensor CoreData Cluster.ctl" Type="VI" URL="../controls/Messaging Payloads/Sensor CoreData Cluster.ctl"/>
-		<Item Name="Channel InsertRequest.ctl" Type="VI" URL="../controls/Messaging Payloads/Channel InsertRequest.ctl"/>
-		<Item Name="Channel CoreData Cluster.ctl" Type="VI" URL="../controls/Messaging Payloads/Channel CoreData Cluster.ctl"/>
-		<Item Name="Active Channels Config.ctl" Type="VI" URL="../controls/Messaging Payloads/Active Channels Config.ctl"/>
-		<Item Name="Fetch SensorID Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/Fetch SensorID Payload.ctl"/>
-		<Item Name="MSG FetchSensorID Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/MSG FetchSensorID Payload.ctl"/>
-		<Item Name="DB TestRunChannel Record.ctl" Type="VI" URL="../controls/Messaging Payloads/DB TestRunChannel Record.ctl"/>
-		<Item Name="Test Parameters Cluster.ctl" Type="VI" URL="../Processing/Test Parameters Cluster.ctl"/>
-		<Item Name="Measurement Role.ctl" Type="VI" URL="../controls/UI/Measurement Role.ctl"/>
-		<Item Name="Create Processing Payload.vi" Type="VI" URL="../support/UI Utilities/Create Processing Payload.vi"/>
-		<Item Name="Test Sequence State.ctl" Type="VI" URL="../controls/UI/Test Sequence State.ctl"/>
-		<Item Name="Direction.ctl" Type="VI" URL="../controls/UI/Direction.ctl"/>
-		<Item Name="Find Setpoint.vi" Type="VI" URL="../support/UI Utilities/Find Setpoint.vi"/>
-		<Item Name="Acquisition Context.ctl" Type="VI" URL="../Acquisition/Acquisition Context.ctl"/>
-		<Item Name="Acquisition Payload.ctl" Type="VI" URL="../Acquisition/Acquisition Payload.ctl"/>
-		<Item Name="Initiate Test.vi" Type="VI" URL="../support/UI Utilities/Initiate Test.vi"/>
-		<Item Name="Analog Output.ctl" Type="VI" URL="../controls/UI/Analog Output.ctl"/>
-		<Item Name="Stimulus Output Display.ctl" Type="VI" URL="../controls/UI/Stimulus Output Display.ctl"/>
-		<Item Name="Stimulus Outputs Display.ctl" Type="VI" URL="../controls/UI/Stimulus Outputs Display.ctl"/>
-		<Item Name="Stimulus Output.ctl" Type="VI" URL="../controls/Controller/Stimulus Output.ctl"/>
-		<Item Name="Stimulus Outputs.ctl" Type="VI" URL="../controls/Controller/Stimulus Outputs.ctl"/>
-		<Item Name="Controller Core Data.ctl" Type="VI" URL="../controls/Controller/Controller Core Data.ctl"/>
-		<Item Name="Stimulus Output Configuration.ctl" Type="VI" URL="../controls/Controller/Stimulus Output Configuration.ctl"/>
-		<Item Name="UI Device Type.ctl" Type="VI" URL="../controls/UI/UI Device Type.ctl"/>
-		<Item Name="Stimulus Settings.ctl" Type="VI" URL="../controls/Controller/Stimulus Settings.ctl"/>
-		<Item Name="Create Acquistion Context Payload.vi" Type="VI" URL="../support/UI Utilities/Create Acquistion Context Payload.vi"/>
-		<Item Name="Execute Test.vi" Type="VI" URL="../support/UI Utilities/Execute Test.vi"/>
-		<Item Name="Sensor Diagnostics.ctl" Type="VI" URL="../Processing/Sensor Diagnostics.ctl"/>
-		<Item Name="Sensor Diagnostics Cluster.ctl" Type="VI" URL="../Processing/Sensor Diagnostics Cluster.ctl"/>
-		<Item Name="Test Sequence Context Cluster.ctl" Type="VI" URL="../controls/UI/Test Sequence Context Cluster.ctl"/>
-		<Item Name="Test Sequence Context.ctl" Type="VI" URL="../controls/UI/Test Sequence Context.ctl"/>
-		<Item Name="DB Query Request 2D Payload.ctl" Type="VI" URL="../controls/Messaging Payloads/DB Query Request 2D Payload.ctl"/>
-		<Item Name="Test Results.ctl" Type="VI" URL="../Analysis/Test Results.ctl"/>
-		<Item Name="Test Details.ctl" Type="VI" URL="../Analysis/Test Details.ctl"/>
-		<Item Name="Analytics Refs.ctl" Type="VI" URL="../controls/UI/Analytics Refs.ctl"/>
-		<Item Name="Insert Calibration Session.vi" Type="VI" URL="../support/UI Utilities/Insert Calibration Session.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">

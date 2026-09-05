@@ -11,13 +11,17 @@
 	<Item Name="DB Fetch UI List.vi" Type="VI" URL="../DB Fetch UI List.vi"/>
 	<Item Name="DB Message Loop.vi" Type="VI" URL="../DB Message Loop.vi"/>
 	<Item Name="DB Request UI List.vi" Type="VI" URL="../DB Request UI List.vi"/>
+	<Item Name="DB TestRunChannel Record.ctl" Type="VI" URL="../../controls/Messaging Payloads/DB TestRunChannel Record.ctl"/>
 	<Item Name="Error Handler - DB Handling Loop.vi" Type="VI" URL="../Error Handler - DB Handling Loop.vi"/>
+	<Item Name="Fetch Calibration Points.vi" Type="VI" URL="../Fetch Calibration Points.vi"/>
 	<Item Name="Fetch Model Config.vi" Type="VI" URL="../Fetch Model Config.vi"/>
 	<Item Name="Fetch OperatorID.vi" Type="VI" URL="../Fetch OperatorID.vi"/>
 	<Item Name="Fetch Sensor Data.vi" Type="VI" URL="../Fetch Sensor Data.vi"/>
 	<Item Name="Fetch Sensor Profile.vi" Type="VI" URL="../Fetch Sensor Profile.vi"/>
 	<Item Name="Fetch SensorID.vi" Type="VI" URL="../Fetch SensorID.vi"/>
+	<Item Name="Fetch SensorID Payload.ctl" Type="VI" URL="../../controls/Messaging Payloads/Fetch SensorID Payload.ctl"/>
+	<Item Name="MSG FetchSensorID Payload.ctl" Type="VI" URL="../../controls/Messaging Payloads/MSG FetchSensorID Payload.ctl"/>
 	<Item Name="Write System Error To DB.vi" Type="VI" URL="../Write System Error To DB.vi"/>
 	<Item Name="Write Telemetry Data To DB.vi" Type="VI" URL="../Write Telemetry Data To DB.vi"/>
-	<Item Name="Fetch Calibration Points.vi" Type="VI" URL="../Fetch Calibration Points.vi"/>
+	<Item Name="DB Query Request 2D Payload.ctl" Type="VI" URL="../../controls/Messaging Payloads/DB Query Request 2D Payload.ctl"/>
 </Library>
