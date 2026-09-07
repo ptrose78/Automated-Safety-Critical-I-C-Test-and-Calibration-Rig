@@ -113,6 +113,19 @@
         </Generic>
       </Probes>
     </VI>
+    <VI name="Analysis.lvlib:Find Unique SensorIDs.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1001"/>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="Check Loop Error.vi:760002">
       <Breakpoints>
         <NodeIndexes>
@@ -150,35 +163,6 @@
           <SignalUID value="13322"/>
           <SignalUID value="11689"/>
           <SignalUID value="10648"/>
-        </Generic>
-      </Probes>
-    </VI>
-    <VI name="Database.lvlib:DB Request UI List.vi">
-      <Breakpoints>
-        <NodeIndexes>
-        </NodeIndexes>
-        <SignalIndexes>
-        </SignalIndexes>
-      </Breakpoints>
-      <Probes>
-        <Generic>
-          <SignalUID value="483"/>
-          <SignalUID value="471"/>
-          <SignalUID value="1832"/>
-        </Generic>
-      </Probes>
-    </VI>
-    <VI name="Database.lvlib:Fetch Sensor Data.vi">
-      <Breakpoints>
-        <NodeIndexes>
-        </NodeIndexes>
-        <SignalIndexes>
-        </SignalIndexes>
-      </Breakpoints>
-      <Probes>
-        <Generic>
-          <SignalUID value="529"/>
-          <SignalUID value="3878"/>
         </Generic>
       </Probes>
     </VI>
@@ -399,6 +383,35 @@
       <Probes>
         <Generic>
           <SignalUID value="656"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Settings.lvlib:DB Request UI List.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="483"/>
+          <SignalUID value="471"/>
+          <SignalUID value="1832"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Settings.lvlib:Fetch Sensor Data.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="529"/>
+          <SignalUID value="3878"/>
         </Generic>
       </Probes>
     </VI>
