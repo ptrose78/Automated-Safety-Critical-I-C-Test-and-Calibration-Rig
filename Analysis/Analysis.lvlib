@@ -10,22 +10,27 @@
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Analysis Dialog.vi" Type="VI" URL="../Analysis Dialog.vi"/>
 	<Item Name="Calculate Accuracy.vi" Type="VI" URL="../Calculate Accuracy.vi"/>
+	<Item Name="Calculate FS.vi" Type="VI" URL="../Calculate FS.vi"/>
 	<Item Name="Calculate Hysteresis.vi" Type="VI" URL="../Calculate Hysteresis.vi"/>
 	<Item Name="Calculate Linearity.vi" Type="VI" URL="../Calculate Linearity.vi"/>
 	<Item Name="Calculate Repeatability.vi" Type="VI" URL="../Calculate Repeatability.vi"/>
 	<Item Name="Convert Calibration Point.vi" Type="VI" URL="../../support/UI Utilities/Convert Calibration Point.vi"/>
 	<Item Name="DB Request Calibration Points.vi" Type="VI" URL="../../Database/DB Request Calibration Points.vi"/>
 	<Item Name="Fetch Run Start Times.vi" Type="VI" URL="../Fetch Run Start Times.vi"/>
+	<Item Name="Find Linearity Descriptors.vi" Type="VI" URL="../Find Linearity Descriptors.vi"/>
 	<Item Name="Find Unique SensorIDs.vi" Type="VI" URL="../Find Unique SensorIDs.vi"/>
 	<Item Name="Initiate Model and Serial Numbers.vi" Type="VI" URL="../Initiate Model and Serial Numbers.vi"/>
 	<Item Name="Remove Max Setpoints.vi" Type="VI" URL="../Remove Max Setpoints.vi"/>
+	<Item Name="Remove Zeroes.vi" Type="VI" URL="../Remove Zeroes.vi"/>
 	<Item Name="Sort Calibration Points.vi" Type="VI" URL="../Sort Calibration Points.vi"/>
+	<Item Name="Sorted Calibration Points.vi" Type="VI" URL="../Sorted Calibration Points.vi"/>
+	<Item Name="Accuracy Result.ctl" Type="VI" URL="../Accuracy Result.ctl"/>
 	<Item Name="Analytics Refs.ctl" Type="VI" URL="../../controls/UI/Analytics Refs.ctl"/>
+	<Item Name="Full Scale Sensor Cluster.ctl" Type="VI" URL="../Full Scale Sensor Cluster.ctl"/>
 	<Item Name="Hysteresis Result.ctl" Type="VI" URL="../Hysteresis Result.ctl"/>
+	<Item Name="Linearity Descriptors.ctl" Type="VI" URL="../Linearity Descriptors.ctl"/>
+	<Item Name="Repeatability Result.ctl" Type="VI" URL="../Repeatability Result.ctl"/>
 	<Item Name="Test Results.ctl" Type="VI" URL="../Test Results.ctl"/>
 	<Item Name="Test Details.ctl" Type="VI" URL="../Test Details.ctl"/>
-	<Item Name="Repeatability Result.ctl" Type="VI" URL="../Repeatability Result.ctl"/>
-	<Item Name="Accuracy Result.ctl" Type="VI" URL="../Accuracy Result.ctl"/>
 	<Item Name="Linearity Result.ctl" Type="VI" URL="../Linearity Result.ctl"/>
-	<Item Name="Calculate FS.vi" Type="VI" URL="../Calculate FS.vi"/>
 </Library>

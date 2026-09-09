@@ -98,6 +98,21 @@
         </Generic>
       </Probes>
     </VI>
+    <VI name="Analysis.lvlib:Calculate Linearity.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="2927"/>
+          <SignalUID value="3292"/>
+          <SignalUID value="554"/>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="Analysis.lvlib:Fetch Run Start Times.vi">
       <Breakpoints>
         <NodeIndexes>
@@ -113,6 +128,23 @@
         </Generic>
       </Probes>
     </VI>
+    <VI name="Analysis.lvlib:Find Linearity Descriptors.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="727"/>
+          <SignalUID value="428"/>
+          <SignalUID value="180"/>
+          <SignalUID value="1011"/>
+          <SignalUID value="1402"/>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="Analysis.lvlib:Find Unique SensorIDs.vi">
       <Breakpoints>
         <NodeIndexes>
@@ -123,6 +155,71 @@
       <Probes>
         <Generic>
           <SignalUID value="1001"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Analysis.lvlib:Sort Calibration Points.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+          <Signal index="579" enabled="1"/>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="374"/>
+          <SignalUID value="2900"/>
+          <SignalUID value="1095"/>
+          <SignalUID value="1756"/>
+          <SignalUID value="1743"/>
+          <SignalUID value="3239"/>
+          <SignalUID value="1477"/>
+          <SignalUID value="3751"/>
+          <SignalUID value="2199"/>
+          <SignalUID value="2282"/>
+          <SignalUID value="409"/>
+          <SignalUID value="1129"/>
+          <SignalUID value="610"/>
+          <SignalUID value="3503"/>
+          <SignalUID value="579"/>
+          <SignalUID value="1679"/>
+          <SignalUID value="1626"/>
+          <SignalUID value="1039"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Analysis.lvlib:Sorted Calibration Points.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="4203"/>
+          <SignalUID value="807"/>
+          <SignalUID value="810"/>
+          <SignalUID value="4127"/>
+          <SignalUID value="1432"/>
+          <SignalUID value="1320"/>
+          <SignalUID value="308"/>
+          <SignalUID value="219"/>
+          <SignalUID value="3619"/>
+          <SignalUID value="1319"/>
+          <SignalUID value="2507"/>
+          <SignalUID value="861"/>
+          <SignalUID value="855"/>
+          <SignalUID value="837"/>
+          <SignalUID value="1014"/>
+          <SignalUID value="503"/>
+          <SignalUID value="3332"/>
+          <SignalUID value="270"/>
+          <SignalUID value="297"/>
+          <SignalUID value="408"/>
+          <SignalUID value="1354"/>
+          <SignalUID value="1954"/>
         </Generic>
       </Probes>
     </VI>
