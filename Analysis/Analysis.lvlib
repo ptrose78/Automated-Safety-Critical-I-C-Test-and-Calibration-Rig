@@ -24,6 +24,7 @@
 	<Item Name="Filter Repeatability Results.vi" Type="VI" URL="../Filter Repeatability Results.vi"/>
 	<Item Name="Find Linearity Descriptors.vi" Type="VI" URL="../Find Linearity Descriptors.vi"/>
 	<Item Name="Find Unique SensorIDs.vi" Type="VI" URL="../Find Unique SensorIDs.vi"/>
+	<Item Name="Get FS.vi" Type="VI" URL="../Get FS.vi"/>
 	<Item Name="Initiate Model and Serial Numbers.vi" Type="VI" URL="../Initiate Model and Serial Numbers.vi"/>
 	<Item Name="Remove Max Setpoints.vi" Type="VI" URL="../Remove Max Setpoints.vi"/>
 	<Item Name="Remove Zeroes.vi" Type="VI" URL="../Remove Zeroes.vi"/>
@@ -39,4 +40,6 @@
 	<Item Name="Test Details.ctl" Type="VI" URL="../Test Details.ctl"/>
 	<Item Name="Test Results.ctl" Type="VI" URL="../Test Results.ctl"/>
 	<Item Name="Test Status.ctl" Type="VI" URL="../../Processing/Test Status.ctl"/>
+	<Item Name="Repeatability Math.vi" Type="VI" URL="../Repeatability Math.vi"/>
+	<Item Name="Hysteresis Math.vi" Type="VI" URL="../Hysteresis Math.vi"/>
 </Library>
