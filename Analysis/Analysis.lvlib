@@ -15,6 +15,7 @@
 	<Item Name="Calculate Linearity.vi" Type="VI" URL="../Calculate Linearity.vi"/>
 	<Item Name="Calculate Repeatability.vi" Type="VI" URL="../Calculate Repeatability.vi"/>
 	<Item Name="Convert Calibration Point.vi" Type="VI" URL="../../support/UI Utilities/Convert Calibration Point.vi"/>
+	<Item Name="Create Session Table.vi" Type="VI" URL="../Create Session Table.vi"/>
 	<Item Name="DB Request Calibration Points.vi" Type="VI" URL="../../Database/DB Request Calibration Points.vi"/>
 	<Item Name="Fetch Run Start Times.vi" Type="VI" URL="../Fetch Run Start Times.vi"/>
 	<Item Name="Find Linearity Descriptors.vi" Type="VI" URL="../Find Linearity Descriptors.vi"/>
