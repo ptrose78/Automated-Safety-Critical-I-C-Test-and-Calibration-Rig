@@ -18,7 +18,10 @@
 	<Item Name="Create Session Table.vi" Type="VI" URL="../Create Session Table.vi"/>
 	<Item Name="DB Request Calibration Points.vi" Type="VI" URL="../../Database/DB Request Calibration Points.vi"/>
 	<Item Name="Fetch Run Start Times.vi" Type="VI" URL="../Fetch Run Start Times.vi"/>
+	<Item Name="Filter Accuracy Results.vi" Type="VI" URL="../Filter Accuracy Results.vi"/>
 	<Item Name="Filter Hysteresis Results.vi" Type="VI" URL="../Filter Hysteresis Results.vi"/>
+	<Item Name="Filter Linearity Results.vi" Type="VI" URL="../Filter Linearity Results.vi"/>
+	<Item Name="Filter Repeatability Results.vi" Type="VI" URL="../Filter Repeatability Results.vi"/>
 	<Item Name="Find Linearity Descriptors.vi" Type="VI" URL="../Find Linearity Descriptors.vi"/>
 	<Item Name="Find Unique SensorIDs.vi" Type="VI" URL="../Find Unique SensorIDs.vi"/>
 	<Item Name="Initiate Model and Serial Numbers.vi" Type="VI" URL="../Initiate Model and Serial Numbers.vi"/>
@@ -36,5 +39,4 @@
 	<Item Name="Test Details.ctl" Type="VI" URL="../Test Details.ctl"/>
 	<Item Name="Test Results.ctl" Type="VI" URL="../Test Results.ctl"/>
 	<Item Name="Test Status.ctl" Type="VI" URL="../../Processing/Test Status.ctl"/>
-	<Item Name="Filter Accuracy Results.vi" Type="VI" URL="../Filter Accuracy Results.vi"/>
 </Library>
