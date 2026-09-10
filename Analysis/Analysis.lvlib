@@ -24,6 +24,10 @@
 	<Item Name="Filter Repeatability Results.vi" Type="VI" URL="../Filter Repeatability Results.vi"/>
 	<Item Name="Find Linearity Descriptors.vi" Type="VI" URL="../Find Linearity Descriptors.vi"/>
 	<Item Name="Find Unique SensorIDs.vi" Type="VI" URL="../Find Unique SensorIDs.vi"/>
+	<Item Name="Find Max Accuracy.vi" Type="VI" URL="../Find Max Accuracy.vi"/>
+	<Item Name="Find Max Hysteresis.vi" Type="VI" URL="../Find Max Hysteresis.vi"/>
+	<Item Name="Find Max Linearity.vi" Type="VI" URL="../Find Max Linearity.vi"/>
+	<Item Name="Find Max Repeatability.vi" Type="VI" URL="../Find Max Repeatability.vi"/>
 	<Item Name="Get FS.vi" Type="VI" URL="../Get FS.vi"/>
 	<Item Name="Initiate Model and Serial Numbers.vi" Type="VI" URL="../Initiate Model and Serial Numbers.vi"/>
 	<Item Name="Remove Max Setpoints.vi" Type="VI" URL="../Remove Max Setpoints.vi"/>
