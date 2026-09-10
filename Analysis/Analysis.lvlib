@@ -48,4 +48,5 @@
 	<Item Name="Test Details.ctl" Type="VI" URL="../Test Details.ctl"/>
 	<Item Name="Test Results.ctl" Type="VI" URL="../Test Results.ctl"/>
 	<Item Name="Test Status.ctl" Type="VI" URL="../../Processing/Test Status.ctl"/>
+	<Item Name="Create Hysteresis Results Summary Table.vi" Type="VI" URL="../Create Hysteresis Results Summary Table.vi"/>
 </Library>
