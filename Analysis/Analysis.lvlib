@@ -16,7 +16,9 @@
 	<Item Name="Calculate Repeatability.vi" Type="VI" URL="../Calculate Repeatability.vi"/>
 	<Item Name="Convert Calibration Point.vi" Type="VI" URL="../../support/UI Utilities/Convert Calibration Point.vi"/>
 	<Item Name="Create Session Table.vi" Type="VI" URL="../Create Session Table.vi"/>
+	<Item Name="Create Calibration Results Summary Table.vi" Type="VI" URL="../Create Calibration Results Summary Table.vi"/>
 	<Item Name="DB Request Calibration Points.vi" Type="VI" URL="../../Database/DB Request Calibration Points.vi"/>
+	<Item Name="Determine PassFail.vi" Type="VI" URL="../Determine PassFail.vi"/>
 	<Item Name="Fetch Run Start Times.vi" Type="VI" URL="../Fetch Run Start Times.vi"/>
 	<Item Name="Filter Accuracy Results.vi" Type="VI" URL="../Filter Accuracy Results.vi"/>
 	<Item Name="Filter Hysteresis Results.vi" Type="VI" URL="../Filter Hysteresis Results.vi"/>
@@ -29,9 +31,11 @@
 	<Item Name="Find Max Linearity.vi" Type="VI" URL="../Find Max Linearity.vi"/>
 	<Item Name="Find Max Repeatability.vi" Type="VI" URL="../Find Max Repeatability.vi"/>
 	<Item Name="Get FS.vi" Type="VI" URL="../Get FS.vi"/>
+	<Item Name="Hysteresis Math.vi" Type="VI" URL="../Hysteresis Math.vi"/>
 	<Item Name="Initiate Model and Serial Numbers.vi" Type="VI" URL="../Initiate Model and Serial Numbers.vi"/>
 	<Item Name="Remove Max Setpoints.vi" Type="VI" URL="../Remove Max Setpoints.vi"/>
 	<Item Name="Remove Zeroes.vi" Type="VI" URL="../Remove Zeroes.vi"/>
+	<Item Name="Repeatability Math.vi" Type="VI" URL="../Repeatability Math.vi"/>
 	<Item Name="Sort Calibration Points.vi" Type="VI" URL="../Sort Calibration Points.vi"/>
 	<Item Name="Sorted Calibration Points.vi" Type="VI" URL="../Sorted Calibration Points.vi"/>
 	<Item Name="Accuracy Result.ctl" Type="VI" URL="../Accuracy Result.ctl"/>
@@ -44,6 +48,4 @@
 	<Item Name="Test Details.ctl" Type="VI" URL="../Test Details.ctl"/>
 	<Item Name="Test Results.ctl" Type="VI" URL="../Test Results.ctl"/>
 	<Item Name="Test Status.ctl" Type="VI" URL="../../Processing/Test Status.ctl"/>
-	<Item Name="Repeatability Math.vi" Type="VI" URL="../Repeatability Math.vi"/>
-	<Item Name="Hysteresis Math.vi" Type="VI" URL="../Hysteresis Math.vi"/>
 </Library>
