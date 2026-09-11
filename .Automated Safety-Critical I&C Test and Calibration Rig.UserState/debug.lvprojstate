@@ -114,6 +114,23 @@
         </Generic>
       </Probes>
     </VI>
+    <VI name="Analysis.lvlib:Create Repeatability Results Summary Table.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1065"/>
+          <SignalUID value="3398"/>
+          <SignalUID value="2105"/>
+          <SignalUID value="495"/>
+          <SignalUID value="551"/>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="Analysis.lvlib:Create Session Table.vi">
       <Breakpoints>
         <NodeIndexes>
