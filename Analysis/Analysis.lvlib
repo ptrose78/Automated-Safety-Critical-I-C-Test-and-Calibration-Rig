@@ -37,6 +37,7 @@
 	<Item Name="Find Max Repeatability.vi" Type="VI" URL="../Find Max Repeatability.vi"/>
 	<Item Name="Generate Accuracy Report Portion.vi" Type="VI" URL="../Generate Accuracy Report Portion.vi"/>
 	<Item Name="Generate Hysteresis Report Portion.vi" Type="VI" URL="../Generate Hysteresis Report Portion.vi"/>
+	<Item Name="Generate Linearity Report Portion.vi" Type="VI" URL="../Generate Linearity Report Portion.vi"/>
 	<Item Name="Generate Repeatability Report Portion.vi" Type="VI" URL="../Generate Repeatability Report Portion.vi"/>
 	<Item Name="Get FS.vi" Type="VI" URL="../Get FS.vi"/>
 	<Item Name="Hysteresis Math.vi" Type="VI" URL="../Hysteresis Math.vi"/>
@@ -56,4 +57,5 @@
 	<Item Name="Test Details.ctl" Type="VI" URL="../Test Details.ctl"/>
 	<Item Name="Test Results.ctl" Type="VI" URL="../Test Results.ctl"/>
 	<Item Name="Test Status.ctl" Type="VI" URL="../../Processing/Test Status.ctl"/>
+	<Item Name="Create Linearity Results Summary Table.vi" Type="VI" URL="../Create Linearity Results Summary Table.vi"/>
 </Library>
