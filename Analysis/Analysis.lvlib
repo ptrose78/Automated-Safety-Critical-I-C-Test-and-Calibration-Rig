@@ -15,11 +15,13 @@
 	<Item Name="Calculate Linearity.vi" Type="VI" URL="../Calculate Linearity.vi"/>
 	<Item Name="Calculate Repeatability.vi" Type="VI" URL="../Calculate Repeatability.vi"/>
 	<Item Name="Convert Calibration Point.vi" Type="VI" URL="../../support/UI Utilities/Convert Calibration Point.vi"/>
+	<Item Name="Create Accuracy Results Summary Table.vi" Type="VI" URL="../Create Accuracy Results Summary Table.vi"/>
+	<Item Name="Create Accuracy Sort Keys.vi" Type="VI" URL="../Create Accuracy Sort Keys.vi"/>
 	<Item Name="Create Calibration Results Summary Table.vi" Type="VI" URL="../Create Calibration Results Summary Table.vi"/>
 	<Item Name="Create Hysteresis Results Summary Table.vi" Type="VI" URL="../Create Hysteresis Results Summary Table.vi"/>
 	<Item Name="Create Repeatability Results Summary Table.vi" Type="VI" URL="../Create Repeatability Results Summary Table.vi"/>
 	<Item Name="Create Session Table.vi" Type="VI" URL="../Create Session Table.vi"/>
-	<Item Name="Create Sort Keys.vi" Type="VI" URL="../Create Sort Keys.vi"/>
+	<Item Name="Create Repeatability Sort Keys.vi" Type="VI" URL="../Create Repeatability Sort Keys.vi"/>
 	<Item Name="DB Request Calibration Points.vi" Type="VI" URL="../../Database/DB Request Calibration Points.vi"/>
 	<Item Name="Determine PassFail.vi" Type="VI" URL="../Determine PassFail.vi"/>
 	<Item Name="Fetch Run Start Times.vi" Type="VI" URL="../Fetch Run Start Times.vi"/>
@@ -33,6 +35,7 @@
 	<Item Name="Find Max Hysteresis.vi" Type="VI" URL="../Find Max Hysteresis.vi"/>
 	<Item Name="Find Max Linearity.vi" Type="VI" URL="../Find Max Linearity.vi"/>
 	<Item Name="Find Max Repeatability.vi" Type="VI" URL="../Find Max Repeatability.vi"/>
+	<Item Name="Generate Accuracy Report Portion.vi" Type="VI" URL="../Generate Accuracy Report Portion.vi"/>
 	<Item Name="Generate Hysteresis Report Portion.vi" Type="VI" URL="../Generate Hysteresis Report Portion.vi"/>
 	<Item Name="Generate Repeatability Report Portion.vi" Type="VI" URL="../Generate Repeatability Report Portion.vi"/>
 	<Item Name="Get FS.vi" Type="VI" URL="../Get FS.vi"/>
