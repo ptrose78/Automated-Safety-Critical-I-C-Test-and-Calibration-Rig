@@ -52,6 +52,7 @@
 				<Item Name="Initiate Test.vi" Type="VI" URL="../support/UI Utilities/Initiate Test.vi"/>
 				<Item Name="Insert Calibration Session.vi" Type="VI" URL="../support/UI Utilities/Insert Calibration Session.vi"/>
 				<Item Name="Login.vi" Type="VI" URL="../support/UI Utilities/Login.vi"/>
+				<Item Name="Remove Zeroes.vi" Type="VI" URL="../support/UI Utilities/Remove Zeroes.vi"/>
 				<Item Name="Set Admin Visible .vi" Type="VI" URL="../support/UI Utilities/Set Admin Visible .vi"/>
 				<Item Name="Set Enable State on Multiple Controls.vi" Type="VI" URL="../support/UI Utilities/Set Enable State on Multiple Controls.vi"/>
 				<Item Name="Set Visible State on Multiple Controls.vi" Type="VI" URL="../support/UI Utilities/Set Visible State on Multiple Controls.vi"/>
