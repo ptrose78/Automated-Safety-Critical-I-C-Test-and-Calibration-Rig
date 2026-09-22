@@ -10,6 +10,7 @@
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="support" Type="Folder"/>
 	<Item Name="Settings Dialog.vi" Type="VI" URL="../Settings Dialog.vi"/>
+	<Item Name="Add Measurement Rows.vi" Type="VI" URL="../Add Measurement Rows.vi"/>
 	<Item Name="Assign Error.vi" Type="VI" URL="../Assign Error.vi"/>
 	<Item Name="DB Request UI List.vi" Type="VI" URL="../../Database/DB Request UI List.vi"/>
 	<Item Name="Fetch All Operators.vi" Type="VI" URL="../Fetch All Operators.vi"/>
@@ -47,4 +48,5 @@
 	<Item Name="Test Sequence Context.ctl" Type="VI" URL="../../controls/UI/Test Sequence Context.ctl"/>
 	<Item Name="UI Device Type.ctl" Type="VI" URL="../../controls/UI/UI Device Type.ctl"/>
 	<Item Name="Sensor Table Insert.ctl" Type="VI" URL="../../controls/Messaging Payloads/Sensor Table Insert.ctl"/>
+	<Item Name="Add Stimulus Output Rows.vi" Type="VI" URL="../Add Stimulus Output Rows.vi"/>
 </Library>

@@ -332,18 +332,6 @@
         </Generic>
       </Probes>
     </VI>
-    <VI name="Find Setpoint.vi">
-      <Breakpoints>
-        <NodeIndexes>
-        </NodeIndexes>
-        <SignalIndexes>
-        </SignalIndexes>
-      </Breakpoints>
-      <Probes>
-        <Generic>
-        </Generic>
-      </Probes>
-    </VI>
     <VI name="Initiate Test.vi">
       <Breakpoints>
         <NodeIndexes>
@@ -450,30 +438,6 @@
         <Generic>
           <SignalUID value="6177"/>
           <SignalUID value="6196"/>
-        </Generic>
-      </Probes>
-    </VI>
-    <VI name="Processing_Engine.lvlib:Find Pass or Fail.vi">
-      <Breakpoints>
-        <NodeIndexes>
-        </NodeIndexes>
-        <SignalIndexes>
-        </SignalIndexes>
-      </Breakpoints>
-      <Probes>
-        <Generic>
-        </Generic>
-      </Probes>
-    </VI>
-    <VI name="Processing_Engine.lvlib:Initialize Cache.vi">
-      <Breakpoints>
-        <NodeIndexes>
-        </NodeIndexes>
-        <SignalIndexes>
-        </SignalIndexes>
-      </Breakpoints>
-      <Probes>
-        <Generic>
         </Generic>
       </Probes>
     </VI>
