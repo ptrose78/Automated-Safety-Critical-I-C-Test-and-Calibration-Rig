@@ -8,9 +8,9 @@
 </Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Item Name="DB Message Loop.vi" Type="VI" URL="../DB Message Loop.vi"/>
 	<Item Name="Create Table.vi" Type="VI" URL="../Create Table.vi"/>
 	<Item Name="DB Fetch UI List.vi" Type="VI" URL="../DB Fetch UI List.vi"/>
-	<Item Name="DB Message Loop.vi" Type="VI" URL="../DB Message Loop.vi"/>
 	<Item Name="DB TestRunChannel Record.ctl" Type="VI" URL="../../controls/Messaging Payloads/DB TestRunChannel Record.ctl"/>
 	<Item Name="Error Handler - DB Handling Loop.vi" Type="VI" URL="../Error Handler - DB Handling Loop.vi"/>
 	<Item Name="Fetch Calibration Points.vi" Type="VI" URL="../Fetch Calibration Points.vi"/>

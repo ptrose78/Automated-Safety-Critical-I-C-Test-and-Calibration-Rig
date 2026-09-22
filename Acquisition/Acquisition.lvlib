@@ -13,7 +13,6 @@
 		<Item Name="Instrument Specifications Configuration.ctl" Type="VI" URL="../Instrument Specifications Configuration.ctl"/>
 		<Item Name="Signal Type.ctl" Type="VI" URL="../Signal Type.ctl"/>
 	</Item>
-	<Item Name="Instrument Specifications Cluster Configuration.ctl" Type="VI" URL="../Instrument Specifications Cluster Configuration.ctl"/>
 	<Item Name="Acquisition Message Loop.vi" Type="VI" URL="../Acquisition Message Loop.vi"/>
 	<Item Name="Acquire.vi" Type="VI" URL="../Acquire.vi"/>
 	<Item Name="Apply Stimulus.vi" Type="VI" URL="../Apply Stimulus.vi"/>
@@ -28,4 +27,5 @@
 	<Item Name="Stop Acquisition.vi" Type="VI" URL="../Stop Acquisition.vi"/>
 	<Item Name="Acquisition Context.ctl" Type="VI" URL="../Acquisition Context.ctl"/>
 	<Item Name="Acquisition Payload.ctl" Type="VI" URL="../Acquisition Payload.ctl"/>
+	<Item Name="Instrument Specifications Cluster Configuration.ctl" Type="VI" URL="../Instrument Specifications Cluster Configuration.ctl"/>
 </Library>

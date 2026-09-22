@@ -9,6 +9,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="support" Type="Folder"/>
+	<Item Name="Settings Dialog.vi" Type="VI" URL="../Settings Dialog.vi"/>
 	<Item Name="Assign Error.vi" Type="VI" URL="../Assign Error.vi"/>
 	<Item Name="DB Request UI List.vi" Type="VI" URL="../../Database/DB Request UI List.vi"/>
 	<Item Name="Fetch All Operators.vi" Type="VI" URL="../Fetch All Operators.vi"/>
@@ -23,7 +24,6 @@
 	<Item Name="Overwrite Physical Channel.vi" Type="VI" URL="../Overwrite Physical Channel.vi"/>
 	<Item Name="Overwrite SensorID.vi" Type="VI" URL="../Overwrite SensorID.vi"/>
 	<Item Name="Save Settings to XML.vi" Type="VI" URL="../Save Settings to XML.vi"/>
-	<Item Name="Settings Dialog.vi" Type="VI" URL="../Settings Dialog.vi"/>
 	<Item Name="Update Instrument Specifications.vi" Type="VI" URL="../Update Instrument Specifications.vi"/>
 	<Item Name="Active Channels Config.ctl" Type="VI" URL="../../controls/Messaging Payloads/Active Channels Config.ctl"/>
 	<Item Name="Analog Output.ctl" Type="VI" URL="../../controls/UI/Analog Output.ctl"/>
@@ -46,4 +46,5 @@
 	<Item Name="Test Sequence Context Cluster.ctl" Type="VI" URL="../../controls/UI/Test Sequence Context Cluster.ctl"/>
 	<Item Name="Test Sequence Context.ctl" Type="VI" URL="../../controls/UI/Test Sequence Context.ctl"/>
 	<Item Name="UI Device Type.ctl" Type="VI" URL="../../controls/UI/UI Device Type.ctl"/>
+	<Item Name="Sensor Table Insert.ctl" Type="VI" URL="../../controls/Messaging Payloads/Sensor Table Insert.ctl"/>
 </Library>
