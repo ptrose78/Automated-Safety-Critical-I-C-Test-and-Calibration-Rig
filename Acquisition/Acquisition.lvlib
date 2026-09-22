@@ -23,9 +23,10 @@
 	<Item Name="Error Handler - Acquisition Message Loop.vi" Type="VI" URL="../Error Handler - Acquisition Message Loop.vi"/>
 	<Item Name="Generate Simulated Data.vi" Type="VI" URL="../Generate Simulated Data.vi"/>
 	<Item Name="Initialize Hardware References.vi" Type="VI" URL="../Initialize Hardware References.vi"/>
-	<Item Name="Simulate Pressures.vi" Type="VI" URL="../Simulate Pressures.vi"/>
+	<Item Name="Simulate Failing Pressures.vi" Type="VI" URL="../Simulate Failing Pressures.vi"/>
 	<Item Name="Stop Acquisition.vi" Type="VI" URL="../Stop Acquisition.vi"/>
 	<Item Name="Acquisition Context.ctl" Type="VI" URL="../Acquisition Context.ctl"/>
 	<Item Name="Acquisition Payload.ctl" Type="VI" URL="../Acquisition Payload.ctl"/>
 	<Item Name="Instrument Specifications Cluster Configuration.ctl" Type="VI" URL="../Instrument Specifications Cluster Configuration.ctl"/>
+	<Item Name="Simulate Passing Pressures.vi" Type="VI" URL="../Simulate Passing Pressures.vi"/>
 </Library>

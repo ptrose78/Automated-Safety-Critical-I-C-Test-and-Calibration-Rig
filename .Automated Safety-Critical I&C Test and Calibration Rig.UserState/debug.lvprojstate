@@ -79,7 +79,6 @@
           <SignalUID value="203"/>
           <SignalUID value="9"/>
           <SignalUID value="4060"/>
-          <SignalUID value="4141"/>
         </Generic>
       </Probes>
     </VI>
@@ -333,6 +332,18 @@
         </Generic>
       </Probes>
     </VI>
+    <VI name="Find Setpoint.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="Initiate Test.vi">
       <Breakpoints>
         <NodeIndexes>
@@ -403,6 +414,9 @@
           <SignalUID value="12826"/>
           <SignalUID value="5377"/>
           <SignalUID value="8194"/>
+          <SignalUID value="9128"/>
+          <SignalUID value="14557"/>
+          <SignalUID value="1356"/>
         </Generic>
       </Probes>
     </VI>
@@ -415,7 +429,13 @@
       </Breakpoints>
       <Probes>
         <Generic>
-          <SignalUID value="981"/>
+          <SignalUID value="667"/>
+          <SignalUID value="589"/>
+          <SignalUID value="640"/>
+          <SignalUID value="1867"/>
+          <SignalUID value="1873"/>
+          <SignalUID value="833"/>
+          <SignalUID value="1047"/>
         </Generic>
       </Probes>
     </VI>
@@ -430,6 +450,30 @@
         <Generic>
           <SignalUID value="6177"/>
           <SignalUID value="6196"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Processing_Engine.lvlib:Find Pass or Fail.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Processing_Engine.lvlib:Initialize Cache.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
         </Generic>
       </Probes>
     </VI>
@@ -476,8 +520,6 @@
           <SignalUID value="3134"/>
           <SignalUID value="3416"/>
           <SignalUID value="3825"/>
-          <SignalUID value="2866"/>
-          <SignalUID value="3733"/>
           <SignalUID value="1476"/>
         </Generic>
       </Probes>
