@@ -347,7 +347,7 @@ The **Analysis Dialog** provides access to historical calibration results. Opera
 
 The selected calibration session includes all associated test cycles, allowing the system to evaluate the complete calibration using the stored UUT measurement data.
 
-![Analysis Dialog](documentation/Tutotorial/AnalyticsFrontPanel.png)
+![Analysis Dialog](documentation/Tutorial/AnalyticsFrontPanel.png)
 
 The analysis results include:
 
