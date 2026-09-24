@@ -23,6 +23,7 @@
 	<Item Name="Error Handler - Acquisition Message Loop.vi" Type="VI" URL="../Error Handler - Acquisition Message Loop.vi"/>
 	<Item Name="Generate Simulated Data.vi" Type="VI" URL="../Generate Simulated Data.vi"/>
 	<Item Name="Initialize Hardware References.vi" Type="VI" URL="../Initialize Hardware References.vi"/>
+	<Item Name="Output Waveforms.vi" Type="VI" URL="../Output Waveforms.vi"/>
 	<Item Name="Simulate Failing Pressures.vi" Type="VI" URL="../Simulate Failing Pressures.vi"/>
 	<Item Name="Stop Acquisition.vi" Type="VI" URL="../Stop Acquisition.vi"/>
 	<Item Name="Acquisition Context.ctl" Type="VI" URL="../Acquisition Context.ctl"/>

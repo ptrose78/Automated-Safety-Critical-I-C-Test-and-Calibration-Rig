@@ -40,3 +40,8 @@ Data/TDMS_Logs/
 
 # Ignore active local configurations
 SystemConfig.ini
+
+# === Documentation ===
+# Ignore video files
+*.mp4
+*.mp3

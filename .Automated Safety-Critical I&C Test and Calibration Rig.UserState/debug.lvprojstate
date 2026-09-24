@@ -268,6 +268,19 @@
         </Generic>
       </Probes>
     </VI>
+    <VI name="Database.lvlib:DB Fetch UI List.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1331"/>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="Database.lvlib:DB Message Loop.vi">
       <Breakpoints>
         <NodeIndexes>
@@ -610,11 +623,6 @@
           <SignalUID value="6848"/>
           <SignalUID value="5431"/>
           <SignalUID value="3432"/>
-          <SignalUID value="910"/>
-          <SignalUID value="3999"/>
-          <SignalUID value="4137"/>
-          <SignalUID value="6372"/>
-          <SignalUID value="6732"/>
           <SignalUID value="6063"/>
         </Generic>
       </Probes>
