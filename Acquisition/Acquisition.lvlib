@@ -30,4 +30,5 @@
 	<Item Name="Acquisition Payload.ctl" Type="VI" URL="../Acquisition Payload.ctl"/>
 	<Item Name="Instrument Specifications Cluster Configuration.ctl" Type="VI" URL="../Instrument Specifications Cluster Configuration.ctl"/>
 	<Item Name="Simulate Passing Pressures.vi" Type="VI" URL="../Simulate Passing Pressures.vi"/>
+	<Item Name="Simulate Reference Pressures.vi" Type="VI" URL="../Simulate Reference Pressures.vi"/>
 </Library>

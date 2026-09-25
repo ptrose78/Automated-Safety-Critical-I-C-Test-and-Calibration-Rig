@@ -16,6 +16,7 @@
 	<Item Name="Assign Overall Pass Fail.vi" Type="VI" URL="../Assign Overall Pass Fail.vi"/>
 	<Item Name="Cache Failed Data Point.vi" Type="VI" URL="../Cache Failed Data Point.vi"/>
 	<Item Name="Check Calibration Point.vi" Type="VI" URL="../Check Calibration Point.vi"/>
+	<Item Name="Convert Signal to Engineering Units.vi" Type="VI" URL="../Convert Signal to Engineering Units.vi"/>
 	<Item Name="Create Processing Payload.vi" Type="VI" URL="../../support/UI Utilities/Create Processing Payload.vi"/>
 	<Item Name="Error Handler - Processing Message Loop.vi" Type="VI" URL="../Error Handler - Processing Message Loop.vi"/>
 	<Item Name="Filter Waveforms.vi" Type="VI" URL="../Filter Waveforms.vi"/>

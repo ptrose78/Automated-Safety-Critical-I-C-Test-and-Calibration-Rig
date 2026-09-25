@@ -19,8 +19,10 @@
 	<Item Name="Create Accuracy Sort Keys.vi" Type="VI" URL="../Create Accuracy Sort Keys.vi"/>
 	<Item Name="Create Calibration Results Summary Table.vi" Type="VI" URL="../Create Calibration Results Summary Table.vi"/>
 	<Item Name="Create Hysteresis Results Summary Table.vi" Type="VI" URL="../Create Hysteresis Results Summary Table.vi"/>
+	<Item Name="Create Linearity Results Summary Table.vi" Type="VI" URL="../Create Linearity Results Summary Table.vi"/>
 	<Item Name="Create Repeatability Results Summary Table.vi" Type="VI" URL="../Create Repeatability Results Summary Table.vi"/>
 	<Item Name="Create Session Table.vi" Type="VI" URL="../Create Session Table.vi"/>
+	<Item Name="Create Sensor Table.vi" Type="VI" URL="../Create Sensor Table.vi"/>
 	<Item Name="Create Repeatability Sort Keys.vi" Type="VI" URL="../Create Repeatability Sort Keys.vi"/>
 	<Item Name="DB Request Calibration Points.vi" Type="VI" URL="../../Database/DB Request Calibration Points.vi"/>
 	<Item Name="Determine PassFail.vi" Type="VI" URL="../Determine PassFail.vi"/>
@@ -57,5 +59,4 @@
 	<Item Name="Test Details.ctl" Type="VI" URL="../Test Details.ctl"/>
 	<Item Name="Test Results.ctl" Type="VI" URL="../Test Results.ctl"/>
 	<Item Name="Test Status.ctl" Type="VI" URL="../../Processing/Test Status.ctl"/>
-	<Item Name="Create Linearity Results Summary Table.vi" Type="VI" URL="../Create Linearity Results Summary Table.vi"/>
 </Library>

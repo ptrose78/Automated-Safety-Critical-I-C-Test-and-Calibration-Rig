@@ -63,6 +63,20 @@
         </Generic>
       </Probes>
     </VI>
+    <VI name="Acquisition.lvlib:Output Waveforms.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1841"/>
+          <SignalUID value="1844"/>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="Analysis.lvlib:Analysis Dialog.vi">
       <Breakpoints>
         <NodeIndexes>
@@ -278,6 +292,10 @@
       <Probes>
         <Generic>
           <SignalUID value="1331"/>
+          <SignalUID value="2032"/>
+          <SignalUID value="1423"/>
+          <SignalUID value="2637"/>
+          <SignalUID value="364"/>
         </Generic>
       </Probes>
     </VI>
@@ -308,6 +326,7 @@
           <SignalUID value="7221"/>
           <SignalUID value="6200"/>
           <SignalUID value="5053"/>
+          <SignalUID value="14232"/>
         </Generic>
       </Probes>
     </VI>
@@ -342,6 +361,20 @@
           <SignalUID value="1400"/>
           <SignalUID value="354"/>
           <SignalUID value="366"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Find Setpoint.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="209"/>
+          <SignalUID value="1371"/>
         </Generic>
       </Probes>
     </VI>
@@ -418,6 +451,9 @@
           <SignalUID value="9128"/>
           <SignalUID value="14557"/>
           <SignalUID value="1356"/>
+          <SignalUID value="1298"/>
+          <SignalUID value="7760"/>
+          <SignalUID value="7847"/>
         </Generic>
       </Probes>
     </VI>
@@ -451,6 +487,24 @@
         <Generic>
           <SignalUID value="6177"/>
           <SignalUID value="6196"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Processing_Engine.lvlib:Find Pass or Fail.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="4622"/>
+          <SignalUID value="674"/>
+          <SignalUID value="1885"/>
+          <SignalUID value="1748"/>
+          <SignalUID value="2527"/>
+          <SignalUID value="148"/>
         </Generic>
       </Probes>
     </VI>
@@ -498,6 +552,10 @@
           <SignalUID value="3416"/>
           <SignalUID value="3825"/>
           <SignalUID value="1476"/>
+          <SignalUID value="2027"/>
+          <SignalUID value="2447"/>
+          <SignalUID value="1872"/>
+          <SignalUID value="987"/>
         </Generic>
       </Probes>
     </VI>
@@ -539,6 +597,8 @@
           <SignalUID value="483"/>
           <SignalUID value="471"/>
           <SignalUID value="1832"/>
+          <SignalUID value="3418"/>
+          <SignalUID value="906"/>
         </Generic>
       </Probes>
     </VI>
@@ -584,6 +644,7 @@
         <Generic>
           <SignalUID value="2317"/>
           <SignalUID value="344"/>
+          <SignalUID value="808"/>
         </Generic>
       </Probes>
     </VI>
