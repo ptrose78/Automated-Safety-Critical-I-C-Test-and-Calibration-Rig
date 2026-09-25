@@ -47,7 +47,7 @@
 	<Item Name="Test Sequence State.ctl" Type="VI" URL="../../controls/UI/Test Sequence State.ctl"/>
 	<Item Name="Test Sequence Context Cluster.ctl" Type="VI" URL="../../controls/UI/Test Sequence Context Cluster.ctl"/>
 	<Item Name="Test Sequence Context.ctl" Type="VI" URL="../../controls/UI/Test Sequence Context.ctl"/>
-	<Item Name="UI Device Type.ctl" Type="VI" URL="../../controls/UI/UI Device Type.ctl"/>
+	<Item Name="Data Entity.ctl" Type="VI" URL="../../controls/UI/Data Entity.ctl"/>
 	<Item Name="Sensor Table Insert.ctl" Type="VI" URL="../../controls/Messaging Payloads/Sensor Table Insert.ctl"/>
 	<Item Name="Measurement Role Selection.ctl" Type="VI" URL="../../controls/UI/Measurement Role Selection.ctl"/>
 </Library>

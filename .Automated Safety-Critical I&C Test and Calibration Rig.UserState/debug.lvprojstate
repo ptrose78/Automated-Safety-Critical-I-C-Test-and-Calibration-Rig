@@ -327,6 +327,11 @@
           <SignalUID value="6200"/>
           <SignalUID value="5053"/>
           <SignalUID value="14232"/>
+          <SignalUID value="10642"/>
+          <SignalUID value="6996"/>
+          <SignalUID value="7020"/>
+          <SignalUID value="7017"/>
+          <SignalUID value="5181"/>
         </Generic>
       </Probes>
     </VI>
